@@ -215,3 +215,7 @@ header{
   background-color: rgba(0, 0, 0, 1);
   text-decoration: none;
 }
+
+.hidden{
+  visibility: hidden;
+}

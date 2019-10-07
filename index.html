@@ -38,19 +38,21 @@
 
       <div style="background-color: #333333; border-radius: 1mm;">
         <p style="text-align: center; margin-bottom:1mm;"><a href="./index.html"><img src="./icons/jbpsb.png" alt="JBPsb Logo" width="100mm"></a></p>
-
+<script src="./search.js" charset="utf-8"></script>
 
         <center>
           <h1 hidden>A privacy oriented search engine made by JacobBorgProgramming</h1>
             <p class="pc_l_u" style="text-align: center; color: #e6e6e6; padding-bottom: 1mm; padding-left: 10mm; padding-right:10mm;">Search the web with privacy.</p>
+            <!--<p class=pc_m>Hide         <button id="techHide" onclick="techHide()" class="buttonY_green" name="button">Tech</button><button id="softwareButt" onclick="softwareHide()" class="buttonY_green" name="button">Software</button><button id="googleButt" onclick="googleHide()" class="buttonY_green" name="button">Google</button></p>-->
             <p class="pc_s">This is a private site.</p>
         <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search the web...">
         <div class="index">
           <ul id="myUL">
+            <div id="tech">
             <!--29 Technology Index-->
-            <li><a href="https://www.apple.com/" rel="noreferrer">apple.com <p class="pc_s">Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore accessories, entertainment, and expert device support. /iphone/computer/iMac/ipad/apple watch/ios/macos/software/cell phone </p></a></li>
-            <li><a href="https://www.adobe.com/" rel="noreferrer">adobe.com/ <p class="pc_s">Adobe is changing the world through digital experiences. We help our customers create, deliver and optimize content and applications.</p></a></li>
-            <li><a href="https://visualstudio.microsoft.com/" rel="noreferrer">visualstudio.microsoft.com <p class="pc_s">Visual Studio dev tools & services make app development easy for any platform & language. Try our Mac & Windows code editor, IDE, or Azure DevOps for free.</p></a></li>
+            <li ><a href="https://www.apple.com/" rel="noreferrer">apple.com <p class="pc_s">Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore accessories, entertainment, and expert device support. /iphone/computer/iMac/ipad/apple watch/ios/macos/software/cell phone </p></a></li>
+            <li ><a href="https://www.adobe.com/" rel="noreferrer">adobe.com/ <p class="pc_s">Adobe is changing the world through digital experiences. We help our customers create, deliver and optimize content and applications.</p></a></li>
+            <li ><a href="https://visualstudio.microsoft.com/" rel="noreferrer">visualstudio.microsoft.com <p class="pc_s">Visual Studio dev tools & services make app development easy for any platform & language. Try our Mac & Windows code editor, IDE, or Azure DevOps for free.</p></a></li>
             <li><a href="https://tweetdeck.twitter.com/" rel="noreferrer">tweetdeck.twitter.com/ <p class="pc_s">TweetDeck is your personal browser for staying in touch with what’s happening now.</p></a></li>
             <li><a href="https://pcpartpicker.com/" rel="noreferrer">pcpartpicker.com/ <p class="pc_s">Pick parts. Build your PC. Compare and share. - PCPartPicker</p></a></li>
             <li><a href="https://www.instagram.com/" rel="noreferrer">instagram.com <p class="pc_s">Create an account or log in to Instagram - A simple, fun & creative way to capture, edit & share photos, videos & messages with friends & family.</p></a></li>
@@ -59,34 +61,38 @@
             <li><a href="https://jacobborgprogramming.wordpress.com/" rel="noreferrer">jacobborgprogramming.wordpress.com <p class="pc_s">JacobBorgProgramming.wordpress is a technology website and blog.</p></a></li>
             <li><a href="https://en.wikipedia.org/wiki/Git" rel="noreferrer">wikipedia.org/wiki/Git <p class="pc_s">What is Git?/ Git/ git service</p></a></li>
             <li><a href="https://en.wikipedia.org/wiki/Social_media" rel="noreferrer">wikipedia.org/wiki/Social_media <p class="pc_s">What is social media?</p></a></li>
+          </div>
+          <div id="softwareHide">
             <li><a href="https://www.google.com/chrome/" rel="noreferrer">google.com/chrome/ <p class="pc_s">Get more done with the new Google Chrome. A more simple, secure, and faster web browser than ever,  with Google’s smarts built-in. Download now.</p></a></li>
             <li><a href="https://renderman.pixar.com/" rel="noreferrer">renderman.pixar.com/ <p class="pc_s">RenderMan for Houdini is Here! Welcome to the Cutting Edge /animation/3d/rendering</p></a></li>
+
                 <!--Cliqz SubDex-->
-                <li><a href="https://cliqz.com/en/" rel="noreferrer">cliqz.com/en/ <p class="pc_s">Free download. Cliqz is the first browser with built-in quick search and integrated privacy protection: anti-tracking, anti-phishing and ad blocker.</p></a></li>
+                <li ><a href="https://cliqz.com/en/" rel="noreferrer">cliqz.com/en/ <p class="pc_s">Free download. Cliqz is the first browser with built-in quick search and integrated privacy protection: anti-tracking, anti-phishing and ad blocker.</p></a></li>
                 <li><a href="https://whotracks.me/" rel="noreferrer">whotracks.me/ <p class="pc_s">Learn about tracking technologies, market structure and data-sharing on the web. Detailed profiling of top trackers and the tracker landscape on popular domains.</p></a></li>
                 <!---->
                 <!--3 Airtable SubDex-->
-                <li><a href="https://airtable.com/" rel="noreferrer">airtable.com/ <p class="pc_s">Airtable works like a spreadsheet but gives you the power of a database to organize anything. Sign up for free.</p></a></li>
-                <li><a href="https://airtable.com/signup" rel="noreferrer">airtable.com/signup <p class="pc_s">Airtable works like a spreadsheet but gives you the power of a database to organize anything. Sign up for free.</p></a></li>
-                <li><a href="https://airtable.com/templates" rel="noreferrer">airtable.com/templates <p class="pc_s">Welcome to Airtable Templates, where you can quickly get started using Airtable by selecting the template that was built just for you.</p></a></li>
+                <li ><a href="https://airtable.com/" rel="noreferrer">airtable.com/ <p class="pc_s">Airtable works like a spreadsheet but gives you the power of a database to organize anything. Sign up for free.</p></a></li>
+                <li ><a href="https://airtable.com/signup" rel="noreferrer">airtable.com/signup <p class="pc_s">Airtable works like a spreadsheet but gives you the power of a database to organize anything. Sign up for free.</p></a></li>
+                <li ><a href="https://airtable.com/templates" rel="noreferrer">airtable.com/templates <p class="pc_s">Welcome to Airtable Templates, where you can quickly get started using Airtable by selecting the template that was built just for you.</p></a></li>
                 <!---->
                 <!--powr.io SubDex-->
-                <li><a href="https://www.powr.io/" rel="noreferrer">powr.io/ <p class="pc_s">A full library of free and customizable forms, galleries, social streams, e-commerce, countdowns, and more.</p></a></li>
+                <li ><a href="https://www.powr.io/" rel="noreferrer">powr.io/ <p class="pc_s">A full library of free and customizable forms, galleries, social streams, e-commerce, countdowns, and more.</p></a></li>
                 <!---->
                 <!--Small SEO Tools SubDex-->
-                <li><a href="https://smallseotools.com/" rel="noreferrer">smallseotools.com/ <p class="pc_s">You need effective SEO tools which are 100% free? Check out our Search Engine Optimization tools for checking backlinks, tracking keyword positions and more.</p></a></li>
+                <li ><a href="https://smallseotools.com/" rel="noreferrer">smallseotools.com/ <p class="pc_s">You need effective SEO tools which are 100% free? Check out our Search Engine Optimization tools for checking backlinks, tracking keyword positions and more.</p></a></li>
                 <!---->
-            <li><a href="https://owncloud.org/" rel="noreferrer">owncloud.org/ <p class="pc_s">Access & share your files, calendars, contacts, mail & more from any device; on your terms. Get your ownCloud today and protect your data.</p></a></li>
+            <li ><a href="https://owncloud.org/" rel="noreferrer">owncloud.org/ <p class="pc_s">Access & share your files, calendars, contacts, mail & more from any device; on your terms. Get your ownCloud today and protect your data.</p></a></li>
             <li><a href="https://css-tricks.com/" rel="noreferrer">css-tricks.com/ <p class="pc_s">Daily articles about CSS, HTML, JavaScript, and all things related to web design and development.</p></a></li>
-            <li><a href="https://nextcloud.com/" rel="noreferrer">nextcloud.com/ <p class="pc_s">Nextcloud is the most deployed on-premises file share and collaboration platform. Access & collaborate across your devices. Your data remains under your control.</p></a></li>
-            <li><a href="https://www.scribens.com/" rel="noreferrer">scribens.com/ <p class="pc_s">Scribens is a free online Grammar Checker that corrects over 250 types of common grammar, spelling mistakes and detects stylistic elements such as repetitions, run-on sentences, redundancies and more.</p></a></li>
+            <li ><a href="https://nextcloud.com/" rel="noreferrer">nextcloud.com/ <p class="pc_s">Nextcloud is the most deployed on-premises file share and collaboration platform. Access & collaborate across your devices. Your data remains under your control.</p></a></li>
+            <li ><a href="https://www.scribens.com/" rel="noreferrer">scribens.com/ <p class="pc_s">Scribens is a free online Grammar Checker that corrects over 250 types of common grammar, spelling mistakes and detects stylistic elements such as repetitions, run-on sentences, redundancies and more.</p></a></li>
               <!-- 3 EFF Subdex-->
               <li><a href="https://www.eff.org/" rel="noreferrer">eff.org/ <p class="pc_s">Electronic Frontier Foundation | Defending your rights in the digital world</p></a></li>
-              <li><a href="https://www.eff.org/privacybadger" rel="noreferrer">eff.org/privacybadger <p class="pc_s">Privacy Badger | Electronic Frontier Foundation</p></a></li>
-              <li><a href="https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/" rel="noreferrer">addons.mozilla.org/en-US/firefox/addon/privacy-badger17/ <p class="pc_s">Download Privacy Badger for Firefox. Automatically learns to block invisible trackers.</p></a></li>
+              <li ><a href="https://www.eff.org/privacybadger" rel="noreferrer">eff.org/privacybadger <p class="pc_s">Privacy Badger | Electronic Frontier Foundation</p></a></li>
+              <li ><a href="https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/" rel="noreferrer">addons.mozilla.org/en-US/firefox/addon/privacy-badger17/ <p class="pc_s">Download Privacy Badger for Firefox. Automatically learns to block invisible trackers.</p></a></li>
 
-
+</div>
               <!--end-->
+
             <li><a href="https://protonvpn.com/" rel="noreferrer">protonvpn.com/ <p class="pc_s">ProtonVPN is a security focused FREE VPN service, developed by CERN and MIT scientists. Use the web anonymously, unblock websites & encrypt your connection.</p></a></li>
             <li><a href="https://protonmail.com/" rel="noreferrer">protonmail.com/ <p class="pc_s">ProtonMail is the world's largest secure email service, developed by CERN and MIT scientists. We are open source and protected by Swiss privacy law</p></a></li>
             <!--end-->
@@ -113,7 +119,8 @@
             <li><a href="https://www.nasa.gov/" rel="noreferrer">nasa.gov/ <p class="pc_s">NASA.gov brings you the latest news, images and videos from America's space agency, pioneering the future in space exploration, scientific discovery and aeronautics research.</p></a></li>
 
             <!--end-->
-            <!--6 Search engine Index-->
+
+            <!--5 Search engine Index-->
             <li><a href="https://www.google.com/" rel="noreferrer">google.com <p class="pc_s">Google is a technology company. Famous for its search engine. /software/hardware/cell phone/tablet/pixel/gmail/email</p></a></li>
             <li><a href="https://duckduckgo.com/" rel="noreferrer">duckduckgo.com <p class="pc_s">DuckDuckGo is a privacy oriented search engine.</p></a></li>
             <li><a href="https://www.startpage.com/" rel="noreferrer">startpage.com <p class="pc_s">Startpage is a private search engine and email platform.</p></a></li>
@@ -126,21 +133,22 @@
             <!--1 alt browser Index-->
             <li><a href="https://alohabrowser.com/" rel="noreferrer">alohabrowser.com/ <p class="pc_s">Private browser for iPhone, iPad and Android. Provides maximum privacy and security and comes with free unlimited VPN</p></a></li>
             <!--end-->
-            <!--7 Google Apps Index-->
+            <!--8 Google Apps Index-->
+            <div  id="googleHide">
+            <li><a href="https://www.google.com/" rel="noreferrer">google.com <p class="pc_s">Google is a technology company. Famous for its search engine. /software/hardware/cell phone/tablet/pixel/gmail/email</p></a></li>
             <li><a href="https://www.youtube.com/" rel="noreferrer">youtube.com <p class="pc_s">Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube. /entertainment</p></a></li>
-            <li><a href="https://firebase.google.com/" rel="noreferrer">firebase.google.com <p class="pc_s">Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business. /develop</p></a></li>
+            <li ><a href="https://firebase.google.com/" rel="noreferrer">firebase.google.com <p class="pc_s">Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business. /develop</p></a></li>
             <li><a href="https://developers.google.com/products/?hl=en" rel="noreferrer">developers.google.com/products/?hl=en <p class="pc_s">Google developer tools. /software/hardware/cell phone/tablet/pixel/gmail/email</p></a></li>
-            <li><a href="https://developers.google.com/interactive-media-ads/" rel="noreferrer">developers.google.com/interactive-media-ads/ <p class="pc_s">The IMA SDKs enable publishers to monetize video, audio, or gaming content with video advertising.</p></a></li>
-            <li><a href="https://developers.google.com/gsuite/" rel="noreferrer">developers.google.com/gsuite/ <p class="pc_s">Millions upon millions of G Suite users. Millions upon millions of people your app can reach.</p></a></li>
-            <li><a href="https://developers.google.com/games/" rel="noreferrer">developers.google.com/games/ <p class="pc_s">Enhance your games with Google technologies.</p></a></li>
-            <li><a href="https://developers.google.com/speed/public-dns/" rel="noreferrer">developers.google.com/speed/public-dns/ <p class="pc_s">Google Public DNS is a free, global Domain Name System (DNS) resolution service, that you can use as an alternative to your current DNS provider.</p></a></li>
-
-
+            <li ><a href="https://developers.google.com/interactive-media-ads/" rel="noreferrer">developers.google.com/interactive-media-ads/ <p class="pc_s">The IMA SDKs enable publishers to monetize video, audio, or gaming content with video advertising.</p></a></li>
+            <li ><a href="https://developers.google.com/gsuite/" rel="noreferrer">developers.google.com/gsuite/ <p class="pc_s">Millions upon millions of G Suite users. Millions upon millions of people your app can reach.</p></a></li>
+            <li ><a href="https://developers.google.com/games/" rel="noreferrer">developers.google.com/games/ <p class="pc_s">Enhance your games with Google technologies.</p></a></li>
+            <li ><a href="https://developers.google.com/speed/public-dns/" rel="noreferrer">developers.google.com/speed/public-dns/ <p class="pc_s">Google Public DNS is a free, global Domain Name System (DNS) resolution service, that you can use as an alternative to your current DNS provider.</p></a></li>
+          </div>
             <!--end-->
             <!--1 Job Index-->
             <li><a href="https://www.monster.com/" rel="noreferrer">monster.com/ <p class="pc_s">Monster is your source for jobs and career opportunities. Search for jobs, read career advice from Monster's job experts, and find hiring and recruiting advice.</p></a></li>
             <!--end-->
-
+            <div id="browsers">
             <!--3 Brave.com Index-->
             <li><a href="https://brave.com/" rel="noreferrer">brave.com <p class="pc_s">Welcome to the new Brave browser. Experience a faster, more private and secure browser for PC, Mac and iOS and Android. Block ads and trackers that slow you down, cost you money and invade your privacy. /software/web browser/crypto currency</p></a></li>
             <li><a href="https://brave.com/download/" rel="noreferrer">brave.com/download/ <p class="pc_s">The Brave browser is a fast, private and secure web browser for PC, Mac and mobile. Download now to enjoy a faster ad-free browsing experience that saves data and battery life by blocking tracking software. /software/web browser/crypto currency</p></a></li>
@@ -153,7 +161,9 @@
             <li><a href="https://www.opera.com/computer/portable" rel="noreferrer">opera.com/computer/portable <p class="pc_s">With Opera portable, you can run the browser from a USB stick on any Windows computer. Download it from the official opera.com site.</p></a></li>
             <li><a href="https://www.opera.com/help" rel="noreferrer">opera.com/help <p class="pc_s">Find the answers to your questions about your Opera browser. Help & FAQ for all Opera browsers is here, at the official Opera Software site.</p></a></li>
             <!--end-->
+          </div>
             <!--3 Phone Company Index-->
+
             <li><a href="https://www.t-mobile.com/" rel="noreferrer">t-mobile.com/ <p class="pc_s">T-Mobile delivers outstanding wireless experiences - no annual contracts, no roaming charges, plus many perks and benefits. Call 1.800.TMOBILE to make a purchase today! /phone</p></a></li>
             <li><a href="https://www.sprint.com/" rel="noreferrer">sprint.com/ <p class="pc_s">Shop for cell phones & wireless calling plans from Sprint. Switch to Sprint today and find great deals on unlimited data plans for the whole family.</p></a></li>
             <li><a href="https://www.att.com/" rel="noreferrer">att.com/ <p class="pc_s">Visit att.com to switch and save on phone plans, internet service, & TV with premium entertainment! America's best network is also the fastest.</p></a></li>
@@ -168,12 +178,16 @@
                 <li><a href="https://batgrowth.com/" rel="noreferrer">batgrowth.com/ <p class="pc_s">BATGrowth is monitoring Brave Browser and Basic Attention Token (BAT) adoption : Number and lists of publishers, of holders, growth graphs and other metrics</p></a></li>
                 <!---->
             <!--end-->
+
+          <div id="vivaldi">
             <!--4 Vivaldi Index-->
             <li><a href="https://vivaldi.com" rel="noreferrer">vivaldi.com <p class="pc_s">Your browser matters. Vivaldi is a new browser with unrivaled customization and control. Fast, secure and flexible – this is a browser made for you.</p></a></li>
             <li><a href="https://imap.vivaldi.net/webmail/" rel="noreferrer">imap.vivaldi.net/webmail/ <p class="pc_s">Vivaldi Webmail :: Welcome to Vivaldi Webmail</p></a></li>
             <li><a href="https://forum.vivaldi.net" rel="noreferrer">forum.vivaldi.net <p class="pc_s">Join the Vivaldi Community to connect with friends from around the world and discuss technology, the future of the web, and development of the Vivaldi Browser.</p></a></li>
             <li><a href="https://vivaldi.net" rel="noreferrer">vivaldi.net <p class="pc_s">Create a Vivaldi account to Sync your browsing data, access free webmail, blogging platform and tech forum.</p></a></li>
             <!--end-->
+            </div>
+            <div id="mozilla">
             <!--8 Mozilla.org Index-->
             <li><a href="https://www.mozilla.org/en-US/" rel="noreferrer">mozilla.org/en-US/s <p class="pc_s">Mozilla is the not-for-profit behind the lightning fast Firefox browser. We put people over profit to give everyone more power online. /privacy/safe_browsing</p></a></li>
             <li><a href="https://www.mozilla.org/en-US/firefox/accounts/" rel="noreferrer">mozilla.org/en-US/firefox/accounts/ <p class="pc_s">Take your stand against an industry that’s selling your data to third parties. Stay smart and safe online with technology that fights for you. /privacy/safe browsing</p></a></li>
@@ -183,7 +197,7 @@
             <li><a href="https://trackthis.link/" rel="noreferrer">trackthis.link/ <p class="pc_s">Throw ad trackers off your trail with 100 tabs of pure madness. /ad blocker, track this, hide identity, protect against ads, firefox, privacy mode, incognito</p></a></li>
             <li><a href="https://monitor.firefox.com/" rel="noreferrer">monitor.firefox.com/ <p class="pc_s">Find out if you’ve been part of a data breach with Firefox Monitor. Sign up for alerts about future breaches and get tips to keep your accounts safe.</p></a></li>
             <li><a href="https://send.firefox.com/" rel="noreferrer">send.firefox.com/ <p class="pc_s">Encrypt and send files with a link that automatically expires to ensure your important documents don’t stay online forever.</p></a></li>
-
+          </div>
             <!--end-->
             <!--3 open.life.church Index-->
             <li><a href="https://open.life.church/" rel="noreferrer">open.life.church/ <p class="pc_s">Find free Life.Church resources, trainings, apps, and community for pastors and become the leader God's called you to be with the Life.Church Open Network.</p></a></li>
