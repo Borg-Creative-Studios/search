@@ -1,5 +1,5 @@
 function techHide(){
-  var x = document.getElementById("tech");
+  var x = document.getElementByClas("tech");
 if (x.style.display === "none") {
   document.getElementById("techHide").className = "buttonY_green";
  x.style.display = "block";
