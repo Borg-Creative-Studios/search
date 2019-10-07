@@ -12,7 +12,9 @@ top: 0;
   border-radius: 1mm;
   margin-bottom: 12px; /* Add some space below the input */
 }
-
+#myInput:focus{
+  outline: none;
+}
 #myUL {
   /* Remove default list styling */
   list-style-type: none;
@@ -53,4 +55,7 @@ overflow-x:hidden;
   top: 0px;
   left: 0px;
   right: 0px;
+}
+.search_bar:focus{
+  outline: none;
 }

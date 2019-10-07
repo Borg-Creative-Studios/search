@@ -9,6 +9,7 @@ margin-right: 0px;
 margin-left: 0px;
 margin-top: 0px;
   scroll-behavior: smooth;
+
 }
 @import url('https://fonts.googleapis.com/css?family=Monoton|PT+Sans+Narrow|Share+Tech+Mono&display=swap');
 /*font-family: 'Share Tech Mono', monospace;
@@ -50,6 +51,12 @@ a{
   transition-duration: 0.3s;
   font-size: 10mm;
   margin: 4mm;
+}
+.buttonMenu:focus{
+  outline: none;
+}
+.buttonMenu2:focus{
+  outline: none;
 }
 .buttonMenu:hover{
 
@@ -215,7 +222,9 @@ header{
   background-color: rgba(0, 0, 0, 1);
   text-decoration: none;
 }
-
+.topbutton:focus{
+  outline: none;
+}
 .hidden{
   visibility: hidden;
 }
