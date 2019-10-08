@@ -46,10 +46,6 @@ overflow-x:hidden;
 .index{
   -moz-column-fill: auto; /* Firefox */
   column-fill: auto;
-  /*height: 100mm;*/
-  /*overflow: scroll;*/
-  margin: 0mm;
-  column-count: 1;
 }
 .search_bar{
   position: fixed;

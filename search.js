@@ -28,3 +28,22 @@ if (x.style.display === "none") {
  document.getElementById("googleButt").className = "buttonY_orange";
 }
 }
+
+
+
+/*function searching(){
+  var x = document.getElementById("myUL");
+if (x.style.display === "none") {
+ x.style.display = "block";
+} else {
+ x.style.display = "none";
+}
+}
+function searched(){
+  var x = document.getElementById("myUL");
+if (x.style.display === "none") {
+ x.style.display = "block";
+} else {
+ x.style.display = "none";
+}
+}*/
