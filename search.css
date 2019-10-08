@@ -12,6 +12,7 @@ top: 0;
   border: 2px solid #ddd; /* Add a grey border */
   border-radius: 1mm;
   margin-bottom: 12px; /* Add some space below the input */
+box-shadow: 0mm 0mm 4mm black;
 }
 #myInput:focus{
   outline: none;
