@@ -2,9 +2,10 @@
   position: -webkit-sticky; /* Safari */
 position: sticky;
 top: 0;
-  background-image: url('/css/searchicon.png'); /* Add a search icon to input */
-  background-position: 10px 12px; /* Position the search icon */
+  background-image: url('./search.png'); /* Add a search icon to input */
+  background-position: 6px 6px; /* Position the search icon */
   background-repeat: no-repeat; /* Do not repeat the icon image */
+  background-size: 30px;
   width: 90%; /* Full-width */
   font-size: 16px; /* Increase font-size */
   padding: 12px 20px 12px 40px; /* Add some padding */
