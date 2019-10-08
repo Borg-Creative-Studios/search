@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="shortcut icon" href="./icons/jbpsb.png">
+<link rel="stylesheet" href="./main.css">
+<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+<meta name="Description" content="Search the web with privacy!">
+<title>Search</title>
+<!--JazzBlocks required code-->
+<link rel="stylesheet" href="https://jacobborgprogramming.github.io/JazzBlocksLibrary/libraries/textStyles.css">
+<link rel="stylesheet" href="https://jacobborgprogramming.github.io/JazzBlocksLibrary/libraries/buttons.css">
+<link rel="stylesheet" href="https://jacobborgprogramming.github.io/JazzBlocksLibrary/libraries/everythingelse.css">
+<link rel="preload" href="./libraries/JazzBlocksFunctions.js" as="script">
+<link rel="preload" href="./libraries/search.css" as="style">
+<link rel="preload" href="https://fonts.googleapis.com/css?family=Chilanka|La+Belle+Aurore|Literata|Oswald|Ubuntu&display=swap" as="style">
+<link href="https://fonts.googleapis.com/css?family=Chilanka|La+Belle+Aurore|Literata|Oswald|Ubuntu&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./search.css">
+<!--end-->
+<link rel="prefetch" href="./media/nJBPbg.jpg">
+<meta name="keywords" content="JacobBorgProgramming, developer">
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <a id="top"></a>
+
+</head>
+<header>
+  <a href="#"></a>
+<div id="menu" >
+
+
+</div>
+
+</header>
+<body style="padding:3mm; ">
+  <center>
+    <div class="con1" style="background-image: url(./media/network2.jpg);background-position: center;">
+      <p style="padding:0mm;"></p>
+
+      <div style="background-color: #333333; border-radius: 1mm;">
+        <p style="text-align: center; margin-bottom:1mm;"><a href="./index.html"><img src="./icons/jbpsb.png" alt="JBPsb Logo" width="100mm"></a></p>
+<script src="./search.js" charset="utf-8"></script>
+<center>
+  <p class="pc_l">This is an unbiased search engine.</p>
+  <p class="pc_m">This means that we do not favor certain sites over others. The index is arranged by kind and then by crawl order. This means that small corperations may appear before large corperations and vice versa.</p>
+  <p class="pc_l">This is a private search engine.</p>
+  <p class="pc_m">We do not collect any data from searches or your presence on our website!</p>
+
+</center>
+
+    <p style="padding:5mm;"></p>
+    <p class="pc_m">Can't find what you're looking for? Search for it on <a href="https://duckduckgo.com" target="_blank">DuckDuckGo</a>.</p>
+    <p ><a href="./about.html"><button class="buttonMenu2" name="button">About</button></a><a href="https://groundstechtalk.blogspot.com" target="_blank"><button class="buttonMenu2" name="button">Tech Talk</button></a></p>
+
+    </div></div>
+  </center>
+  <a href="#" class="topbutton">Top</a>
+</body>
+<footer style="margin-top: 0mm; bottom: 0px;">
+
+
+</footer>
+
+</div>
+<script>
+function myFunction() {
+  // Declare variables
+  var input, filter, ul, li, a, i, txtValue;
+  input = document.getElementById('myInput');
+  filter = input.value.toUpperCase();
+  ul = document.getElementById("myUL");
+  li = ul.getElementsByTagName('li');
+
+  // Loop through all list items, and hide those who don't match the search query
+  for (i = 0; i < li.length; i++) {
+    a = li[i].getElementsByTagName("a")[0];
+    txtValue = a.textContent || a.innerText;
+    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+      li[i].style.display = "";
+    } else {
+      li[i].style.display = "none";
+    }
+  }
+}
+</script>
+
+</html>
