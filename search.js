@@ -38,12 +38,10 @@ if (x.style.display === "none") {
 } else {
  x.style.display = "none";
 }
-}
-function searched(){
-  var x = document.getElementById("myUL");
-if (x.style.display === "none") {
- x.style.display = "block";
-} else {
- x.style.display = "none";
-}
 }*/
+function searched(){
+document.getElementById("searchButt").style.visibility = "hidden";
+document.getElementById("myUL").style.visibility = "visible";
+document.getElementById("myInput").style.width = "90%";
+document.getElementById("myUL").style.height = "100%";
+}
