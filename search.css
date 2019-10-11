@@ -39,6 +39,20 @@ overflow-x:hidden;
   color: black; /* Add a black text color */
   display: block; /* Make it into a block element to fill the whole list */
 }
+#dual{
+  margin: 5mm;
+  column-count: 2;
+}
+#dual a{
+  height: 30mm;
+}
+#tri{
+  margin: 5mm;
+  column-count: 3;
+}
+#tri a{
+  height: 30mm;
+}
 
 #myUL li a:hover:not(.header) {
   background-color: #17bf63; /* Add a hover effect to all links, except for headers */
