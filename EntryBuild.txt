@@ -1,44 +1,19 @@
-<li><a href="http://corndog.io/" rel="noreferrer">corndog.io/ <p name="h1" hidden></p><p name="tags" hidden></p><p class="pc_s"></p></a></li>
+<li><a href="https://signal.org/" rel="noreferrer">https://signal.org/<p name="h1" hidden>Speak Freely</p><p name="tags" hidden></p><p class="pc_s">Speak Freely</p></a></li>
 
-<li><a href="https://trello.com/" rel="noreferrer">trello.com/ <p name="h1" hidden>Trello lets you work more collaboratively and get more done.</p><p name="tags" hidden></p><p class="pc_s">Infinitely flexible. Incredibly easy to use. Great mobile apps. It's free. Trello keeps track of everything, from the big picture to the minute details.</p></a></li>
+<li><a href="https://about.gitlab.com/" rel="noreferrer">https://about.gitlab.com/<p name="h1" hidden>Empower your team to thrive remotely</p><p name="tags" hidden></p><p class="pc_s">“From project planning and source code management to CI/CD and monitoring, GitLab is a complete DevOps platform, delivered as a single application. Only GitLab enables Concurrent DevOps to make the software lifecycle 200% faster.”</p></a></li>
 
-<li><a href="https://www.eclipse.org/ide/" rel="noreferrer">www.eclipse.org/ide/ <p name="h1" hidden>Desktop IDEs</p><p name="tags" hidden>eclipse,project,plug-ins,plugins,java,ide,swt,refactoring,free java ide,tools,platform,open source,development environment,development,ide</p><p class="pc_s">The Eclipse Foundation - home to a global community, the Eclipse IDE, Jakarta EE and over 350 open source projects, including runtimes, tools and frameworks.</p></a></li>
+<li><a href="https://getpocket.com/" rel="noreferrer">https://getpocket.com/<p name="h1" hidden></p><p name="tags" hidden>pocket, read it later, save for later, read later, bookmark, bookmarks, iphone, app, offline, ipad, android, kindle, firefox, extension</p><p class="pc_s">When you find something you want to view later, put it in Pocket.</p></a></li>
 
-<li><a href="https://soundcloud.com/" rel="noreferrer">soundcloud.com/ <p name="h1" hidden></p><p name="tags" hidden>record, sounds, share, sound, audio, tracks, music, soundcloud</p><p class="pc_s">SoundCloud is a music and podcast streaming platform that lets you listen to millions of songs from around the world, or upload your own. Start listening now!</p></a></li>
+<li><a href="https://www.intercom.com/" rel="noreferrer">https://www.intercom.com/<p name="h1" hidden>Deliver great experiences, no matter what</p><p name="tags" hidden></p><p class="pc_s">We make customer messaging apps for sales, marketing, and support, connected on one platform. Our mission is to make business personal again.</p></a></li>
 
-<li><a href="https://www.skype.com/en/" rel="noreferrer">www.skype.com/en/ <p name="h1" hidden>Skype makes it easy to stay in touch</p><p name="tags" hidden></p><p class="pc_s">Stay in touch! Free online calls, messaging, affordable international calling to mobiles or landlines and Skype for Business for effective collaboration.</p></a></li>
+<li><a href="https://mailchimp.com/" rel="noreferrer">https://mailchimp.com/<p name="h1" hidden>We've got your back and your free .com</p><p name="tags" hidden></p><p class="pc_s">Mailchimp is the All-In-One integrated marketing platform for small businesses, to grow your business on your terms. It's easy to use - start for free today! </p></a></li>
 
-<li><a href="https://alternativeto.net/" rel="noreferrer">alternativeto.net/ <p name="h1" hidden></p><p name="tags" hidden></p><p class="pc_s">AlternativeTo lets you find apps and software for Windows, Mac, Linux, iPhone, iPad, Android, Android Tablets, Web Apps, Online, Windows Tablets and more by recommending alternatives to apps you already know.</p></a></li>
+<li><a href="https://dissenter.com/" rel="noreferrer">https://dissenter.com/<p name="h1" hidden></p><p name="tags" hidden>web browser</p><p class="pc_s"></p></a></li>
 
-<li><a href="https://www.spotify.com/us/" rel="noreferrer">www.spotify.com/us/ <p name="h1" hidden>Music for everyone.</p><p name="tags" hidden>Spotify, music, online, listen, streaming, play, digital, album, artist, playlist</p><p class="pc_s">Spotify is a digital music service that gives you access to millions of songs.</p></a></li>
+<li><a href="https://www.thunderbird.net/en-US/" rel="noreferrer">https://www.thunderbird.net/en-US/<p name="h1" hidden>Make Email Easier.</p><p name="tags" hidden></p><p class="pc_s">Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!</p></a></li>
 
-<li><a href="https://visualstudio.microsoft.com/" rel="noreferrer">visualstudio.microsoft.com/ <p name="h1" hidden>Visual Studio</p><p name="tags" hidden></p><p class="pc_s">Visual Studio dev tools & services make app development easy for any platform & language. Try our Mac & Windows code editor, IDE, or Azure DevOps for free.</p></a></li>
+<li><a href="https://www.debian.org/" rel="noreferrer">https://www.debian.org/<p name="h1" hidden>Debian</p><p name="tags" hidden>debian, GNU, linux, unix, open source, free, DFSG</p><p class="pc_s">Debian is an operating system and a distribution of Free Software. It is maintained and updated through the work of many users who volunteer their time and effort.</p></a></li>
 
-<li><a href="https://www.technologyreview.com/" rel="noreferrer">www.technologyreview.com/ <p name="h1" hidden></p><p name="tags" hidden></p><p class="pc_s"></p></a></li>
+<li><a href="https://iot.mozilla.org/" rel="noreferrer">https://iot.mozilla.org/<p name="h1" hidden></p><p name="tags" hidden></p><p class="pc_s"></p></a></li>
 
-<li><a href="https://about.riot.im/" rel="noreferrer">about.riot.im/ <p name="h1" hidden>Liberate your communication</p><p name="tags" hidden></p><p class="pc_s">Communicate the way you want with Riot - a universal secure chat app entirely under your control.</p></a></li>
-
-<li><a href="https://www.lazarus-ide.org/" rel="noreferrer">www.lazarus-ide.org/ <p name="h1" hidden>Lazarus</p><p name="tags" hidden>free,ide,visual,programing,delphi,alternative</p><p class="pc_s">Lazarus is a professional open-source cross platform IDE powered by Free Pascal</p></a></li>
-
-<li><a href="https://ubuntu.com/" rel="noreferrer">ubuntu.com/ <p name="h1" hidden>What’s new in Ubuntu 20.04 LTS?</p><p name="tags" hidden></p><p class="pc_s">Ubuntu is an open source software operating system that runs from the desktop, to the cloud, to all your internet connected things.</p></a></li>
-
-<li><a href="https://www.netflixparty.com/" rel="noreferrer">www.netflixparty.com/ <p name="h1" hidden>A new way to watch Netflix together</p><p name="tags" hidden></p><p class="pc_s"></p></a></li>
-
-<li><a href="https://www.sublimetext.com/" rel="noreferrer">www.sublimetext.com/ <p name="h1" hidden></p><p name="tags" hidden></p><p class="pc_s">Sublime Text is a sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.</p></a></li>
-
-<li><a href="https://mix.com/" rel="noreferrer">mix.com/ <p name="h1" hidden></p><p name="tags" hidden></p><p class="pc_s"></p></a></li>
-
-<li><a href="https://www.scientificamerican.com/" rel="noreferrer">www.scientificamerican.com/ <p name="h1" hidden>Genetic Engineering Could Make a COVID-19 Vaccine in Months Rather Than Years</p><p name="tags" hidden></p><p class="pc_s">Scientific American is the essential guide to the most awe-inspiring advances in science and technology, explaining how they change our understanding of the world and shape our lives.</p></a></li>
-
-<li><a href="https://www.vectornator.io/" rel="noreferrer">www.vectornator.io/ <p name="h1" hidden>Create. Collaborate. Inspire.</p><p name="tags" hidden></p><p class="pc_s">Vectornator is a professional graphic design software for Mac, iPad and iPhone.</p></a></li>
-
-<li><a href="https://store.steampowered.com/" rel="noreferrer">store.steampowered.com/ <p name="h1" hidden>Players Like You Love Based on the games you've played</p><p name="tags" hidden></p><p class="pc_s">Steam is the ultimate destination for playing, discussing, and creating games.</p></a></li>
-
-<li><a href="https://www.videolan.org/vlc/" rel="noreferrer">www.videolan.org/vlc/ <p name="h1" hidden>VLC media player</p><p name="tags" hidden>VideoLAN, VLC, VLC player, VLC media player, download, media player, player download, codec, encoder, media converter, video, video player, multimedia, multicast, x262, x264, x265, DVBlast, Windows, Linux, Unix, BeOS, BSD, MacOS, MacOS X, OSX, Android, Streaming, DVD, Matroska, Blu-Ray, FLV, Xvid, MPEG, MPEG2, MPEG4, H264, DivX, MKV, m2ts, open source, free software, floss, free</p><p class="pc_s">Official download of VLC media player, the best Open Source player</p></a></li>
-
-<li><a href="https://www.thestreet.com/" rel="noreferrer">www.thestreet.com/ <p name="h1" hidden>REAL MONEY PREMIUM CONTENT</p><p name="tags" hidden></p><p class="pc_s">Follow the stock market today on TheStreet. Get business news that moves markets, award-winning stock analysis, market data and stock trading ideas.</p></a></li>
-
-<li><a href="https://www.thestreet.com/live-coverage/" rel="noreferrer">www.thestreet.com/live-coverage/ <p name="h1" hidden>Top Stories</p><p name="tags" hidden></p><p class="pc_s">Coalition of Mavens - Find your maven</p></a></li>
-
-<li><a href="https://developer.android.com/studio" rel="noreferrer">developer.android.com/studio <p name="h1" hidden></p><p name="tags" hidden></p><p class="pc_s">placeholder</p></a></li>
-
+<li><a href="https://ubuntu-mate.org/" rel="noreferrer">https://ubuntu-mate.org/<p name="h1" hidden>In a nutshell…</p><p name="tags" hidden></p><p class="pc_s">A community developed, Ubuntu based operating system that beautifully integrates the MATE desktop. Ubuntu MATE is a stable, easy-to-use operating system with...</p></a></li>
