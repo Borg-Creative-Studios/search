@@ -1,7 +1,7 @@
 html {
 max-width: 100%;
 max-width:100%;
-background-color: rgb(14, 34, 41);
+background-color: rgb(132, 158, 163);
 background-size: cover;
 margin-right: 0px;
 margin-left: 0px;
@@ -14,7 +14,7 @@ margin-top: 0px;
 font-family: 'Monoton', cursive;
 font-family: 'PT Sans Narrow', sans-serif;*/
 body{
-  color: #cecece;
+  color: #1a1a1a;
 
 }
 footer{
@@ -26,7 +26,7 @@ footer{
 
 }
 a{
-  color: #17bf63;
+  color: #3d566e;
   -webkit-transition-duration: 0.4s; /* Safari */
   transition-duration: 0.3s;
 }
@@ -191,34 +191,20 @@ header{
   margin-bottom: 13mm;
 }
 .topbutton{
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 5mm;
   position: fixed;
   bottom: 3mm;
   right: 3mm;
   padding: 2mm;
-  border: solid;
-  border-radius: 10mm;
-  border-color: #17bf63;
-  color: #17bf63;
-  background-color: rgba(0, 0, 0, 0.5);
-  text-decoration: none;
+
   -webkit-transition-duration: 0.4s; /* Safari */
   transition-duration: 0.3s;
 }
 .topbutton:hover{
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 8mm;
   position: fixed;
   bottom: 3mm;
   right: 3mm;
   padding: 2mm;
-  border: solid;
-  border-radius: 10mm;
-  border-color: #17bf63;
-  color: #17bf63;
-  background-color: rgba(0, 0, 0, 1);
-  text-decoration: none;
+
 }
 .topbutton:focus{
   outline: none;
