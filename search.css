@@ -55,8 +55,8 @@ overflow-x:hidden;
 }
 
 #myUL li a:hover:not(.header) {
-  background-color: #17bf63; /* Add a hover effect to all links, except for headers */
-  border-color: #17bf63;
+  background-color: #03dac6; /* Add a hover effect to all links, except for headers */
+  border-color: #03dac6;
 }
 
 .index{
