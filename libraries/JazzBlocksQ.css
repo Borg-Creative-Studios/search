@@ -1,0 +1,429 @@
+@import url('https://fonts.googleapis.com/css?family=Chilanka|La+Belle+Aurore|Literata|Oswald|Ubuntu&display=swap');
+html{
+  text-rendering: optimizeSpeed;
+}
+#skewY_20{
+  transform: skewY(20deg);
+}
+#skewY_neg20{
+  transform: skewY(-20deg);
+}
+#rotate_20{
+  transform: rotate(20deg);
+}
+#rotate_neg20{
+  transform: rotate(-20deg);
+}
+.buttonQ1{
+  margin-left:15mm;
+  margin-right:15mm;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-color: white;
+  background-color: #1a1a1a;
+  color: white;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  box-shadow: 0mm 0mm 1mm white;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+  width: 40mm;
+}
+.buttonQ1:hover{
+  margin-left:5mm;
+  margin-right:5mm;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-color: white;
+  background-color: #1a1a1a;
+  color: white;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  width: 60mm;
+  box-shadow: 0mm 0mm 3mm white;
+  cursor: pointer;
+}
+.buttonQ1_red{
+  margin-left:15mm;
+  margin-right:15mm;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-color: red;
+  background-color: #1a1a1a;
+  color: red;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  box-shadow: 0mm 0mm 1mm red;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+  width: 40mm;
+}
+.buttonQ1_red:hover{
+  margin-left:5mm;
+  margin-right:5mm;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-color: red;
+  background-color: #1a1a1a;
+  color: red;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  width: 60mm;
+  box-shadow: 0mm 0mm 3mm red;
+  cursor: pointer;
+}
+.buttonQ1_yellow{
+  margin-left:15mm;
+  margin-right:15mm;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-color: yellow;
+  background-color: #1a1a1a;
+  color: yellow;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  box-shadow: 0mm 0mm 1mm yellow;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+  width: 40mm;
+}
+.buttonQ1_yellow:hover{
+  margin-left:5mm;
+  margin-right:5mm;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-color: yellow;
+  background-color: #1a1a1a;
+  color: yellow;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  width: 60mm;
+  box-shadow: 0mm 0mm 3mm yellow;
+  cursor: pointer;
+}
+.buttonQ1_pink{
+  margin-left:15mm;
+  margin-right:15mm;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-color: pink;
+  background-color: #1a1a1a;
+  color: pink;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  box-shadow: 0mm 0mm 1mm pink;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+  width: 40mm;
+}
+.buttonQ1_pink:hover{
+  margin-left:5mm;
+  margin-right:5mm;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-color: pink;
+  background-color: #1a1a1a;
+  color: pink;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  width: 60mm;
+  box-shadow: 0mm 0mm 3mm pink;
+  cursor: pointer;
+}
+
+
+.buttonQ1_noir{
+  margin-left:15mm;
+  margin-right:15mm;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-color: #d9d9d9;
+  background-color: #1a1a00;
+  color: #d9d9d9;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  box-shadow: 0mm 0mm 1mm #d9d9d9;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+  width: 40mm;
+}
+.buttonQ1_noir:hover{
+  margin-left:5mm;
+  margin-right:5mm;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-color: #d9d9d9;
+  background-color: #1a1a00;
+  color: #d9d9d9;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  width: 60mm;
+  box-shadow: 0mm 0mm 3mm #d9d9d9;
+  cursor: pointer;
+}
+.buttonQ1_green{
+  margin-left:15mm;
+  margin-right:15mm;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-color: #80DE51;
+  background-color: #1a1a00;
+  color: #80DE51;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  box-shadow: 0mm 0mm 1mm #80DE51;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+  width: 40mm;
+}
+.buttonQ1_green:hover{
+  margin-left:5mm;
+  margin-right:5mm;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-color: #80DE51;
+  background-color: #1a1a00;
+  color: #80DE51;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  width: 60mm;
+  box-shadow: 0mm 0mm 3mm #80DE51;
+  cursor: pointer;
+}
+
+.buttonQ1_orange{
+  margin-left:15mm;
+  margin-right:15mm;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-color: #FB542B;
+  background-color: #1a1a00;
+  color: #FB542B;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  box-shadow: 0mm 0mm 1mm #FB542B;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+  width: 40mm;
+}
+.buttonQ1_orange:hover{
+  margin-left:5mm;
+  margin-right:5mm;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-color: #FB542B;
+  background-color: #1a1a00;
+  color: #FB542B;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  width: 60mm;
+  box-shadow: 0mm 0mm 3mm #FB542B;
+  cursor: pointer;
+}
+.buttonQ1_teal{
+  margin-left:15mm;
+  margin-right:15mm;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-color: #88c6be;
+  background-color: #1a1a00;
+  color: #88c6be;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  box-shadow: 0mm 0mm 1mm #88c6be;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+  width: 40mm;
+}
+.buttonQ1_teal:hover{
+  margin-left:5mm;
+  margin-right:5mm;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-color: #88c6be;
+  background-color: #1a1a00;
+  color: #88c6be;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  width: 60mm;
+  box-shadow: 0mm 0mm 3mm #88c6be;
+  cursor: pointer;
+}
+
+
+
+
+
+
+.buttonQ2_bluepaint{
+  margin: 1.2mm;
+  border: none;
+  color: #1a1a1a;
+  background-image: url(https://dev.jacobborgprogramming.net/JazzBlocksLibrary/libraries/img/bluepaints.jpg);
+  background-color: #1a1a1a;
+  font-family: 'Literata', serif;
+  background-position: top;
+  font-size: 5mm;
+  background-size: cover;
+  border-radius: 1mm;
+  -webkit-transition-duration: 1.5s; /* Safari */
+  transition-duration: 1.4s;
+  width: 60%;
+  height: 30mm;
+}
+.buttonQ2_bluepaint:hover{
+  margin: 1.2mm;
+  border: none;
+  color: #1a1a1a;
+  background-image: url(https://dev.jacobborgprogramming.net/JazzBlocksLibrary/libraries/img/bluepaints.jpg);
+  background-position: center;
+  background-color: #404040;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-radius: 1mm;
+  cursor: pointer;
+  width: 60%;
+  height: 30mm;
+}
+.buttonQ2_blacksands{
+  margin: 1.2mm;
+  border: none;
+  color: white;
+  background-image: url(https://dev.jacobborgprogramming.net/JazzBlocksLibrary/libraries/img/sands.jpg);
+  background-color: #1a1a1a;
+  font-family: 'Literata', serif;
+  background-size: cover;
+  background-position: top;
+  font-size: 5mm;
+  border-radius: 1mm;
+  -webkit-transition-duration: 1.5s; /* Safari */
+  transition-duration: 1.4s;
+  width: 60%;
+  height: 30mm;
+}
+.buttonQ2_blacksands:hover{
+  margin: 1.2mm;
+  border: none;
+  color: white;
+  background-image: url(https://dev.jacobborgprogramming.net/JazzBlocksLibrary/libraries/img/sands.jpg);
+  background-position: center;
+  background-color: #404040;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-radius: 1mm;
+  cursor: pointer;
+  width: 60%;
+  height: 30mm;
+}
+.buttonQ2_streams{
+  margin: 1.2mm;
+  border: none;
+  color: white;
+  background-image: url(https://dev.jacobborgprogramming.net/JazzBlocksLibrary/libraries/img/streams.jpg);
+  background-color: #1a1a1a;
+  background-size: cover;
+  font-family: 'Literata', serif;
+  background-position: top;
+  font-size: 5mm;
+  border-radius: 1mm;
+  -webkit-transition-duration: 1.5s; /* Safari */
+  transition-duration: 1.4s;
+  width: 60%;
+  height: 30mm;
+}
+.buttonQ2_streams:hover{
+  margin: 1.2mm;
+  border: none;
+  color: white;
+  background-image: url(https://dev.jacobborgprogramming.net/JazzBlocksLibrary/libraries/img/streams.jpg);
+  background-position: center;
+  background-size: cover;
+  background-color: #404040;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-radius: 1mm;
+  cursor: pointer;
+  width: 60%;
+  height: 30mm;
+}
+
+
+.buttonQ2_city{
+  margin: 1.2mm;
+  border: none;
+  color: black;
+  background-image: url(https://dev.jacobborgprogramming.net/JazzBlocksLibrary/libraries/img/city.jpg);
+  background-color: #1a1a1a;
+  background-size: cover;
+  font-family: 'Literata', serif;
+  background-position: top;
+  font-size: 5mm;
+  border-radius: 1mm;
+  -webkit-transition-duration: 1.5s; /* Safari */
+  transition-duration: 1.4s;
+  width: 60%;
+  height: 30mm;
+}
+.buttonQ2_city:hover{
+  margin: 1.2mm;
+  border: none;
+  color: black;
+  background-image: url(https://dev.jacobborgprogramming.net/JazzBlocksLibrary/libraries/img/city.jpg);
+  background-position: center;
+  background-size: cover;
+  background-color: #404040;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-radius: 1mm;
+  cursor: pointer;
+  width: 60%;
+  height: 30mm;
+}
+
+
+.buttonQ2_code{
+  margin: 1.2mm;
+  border: none;
+  color: white;
+  background-image: url(https://dev.jacobborgprogramming.net/JazzBlocksLibrary/libraries/img/code.jpg);
+  background-color: #1a1a1a;
+  background-size: cover;
+  font-family: 'Literata', serif;
+  background-position: top;
+  font-size: 5mm;
+  border-radius: 1mm;
+  -webkit-transition-duration: 1.5s; /* Safari */
+  transition-duration: 1.4s;
+  width: 60%;
+  height: 30mm;
+}
+.buttonQ2_code:hover{
+  margin: 1.2mm;
+  border: none;
+  color: white;
+  background-image: url(https://dev.jacobborgprogramming.net/JazzBlocksLibrary/libraries/img/code.jpg);
+  background-position: center;
+  background-size: cover;
+  background-color: #404040;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-radius: 1mm;
+  cursor: pointer;
+  width: 60%;
+  height: 30mm;
+}
+.Qcon{
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
+#fx_fade_04{
+  opacity: 100%;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
+#fx_fade_04:hover{
+  cursor: pointer;
+  opacity: 80%;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}

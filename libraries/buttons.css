@@ -1,0 +1,1458 @@
+
+/*JazzBlock ButtonX*/
+.buttonX{
+  color: #343546;
+  border-style: solid;
+  border-color: blue;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  font-family: monospace;
+  font-size: 5mm;
+  background-color: #cecece;
+  box-shadow: 0mm 0mm 3mm blue;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
+.buttonX:hover{
+  color: #cecece;
+  border-style: solid;
+  border-color: #FB542B;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  font-family: monospace;
+  font-size: 5mm;
+  background-color: #FB542B;
+  box-shadow: 0mm 0mm 5mm #FB542B;
+  cursor: pointer;
+}
+.buttonX:active{
+  color: #343546;
+  border-style: solid;
+  border-color: #FB542B;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  font-family: monospace;
+  font-size: 5mm;
+  background-color: #A0A1B2;
+  box-shadow: 0mm 0mm 5mm #FB542B;
+}
+/*end*/
+
+/*JazzBlock ButtonX_teal*/
+.buttonX_teal{
+  color: #88c6be;
+  border-style: solid;
+  border-color: #88c6be;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  font-family: monospace;
+  font-size: 5mm;
+  background-color: #343546;
+  box-shadow: 0mm 0mm 2mm #343546;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
+.buttonX_teal:hover{
+  color: #00e6b8;
+  border-style: solid;
+  border-color: #00e6b8;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  font-family: monospace;
+  font-size: 5mm;
+  background-color: #343546;
+  box-shadow: 0mm 0mm 4mm #00e6b8;
+  cursor: pointer;
+}
+.buttonX_teal:active{
+  color: #cecece;
+  border-style: solid;
+  border-color: #cecece;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  font-family: monospace;
+  font-size: 5mm;
+  background-color: #343546;
+  box-shadow: 0mm 0mm 4mm #00e6b8;
+  cursor: pointer;
+}
+/*end*/
+
+/*JazzBlock buttonX_green*/
+.buttonX_green{
+  color: #17bf63;
+  border-style: solid;
+  border-color: #17bf63;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  font-family: monospace;
+  font-size: 5mm;
+  background-color: #343546;
+  box-shadow: 0mm 0mm 0mm #17bf63;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
+.buttonX_green:hover{
+  color: #99ff99;
+  border-style: solid;
+  border-color: #99ff99;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  font-family: monospace;
+  font-size: 5mm;
+  background-color: #343546;
+  box-shadow: 0mm 0mm 4mm #99ff99;
+  cursor: pointer;
+}
+.buttonX_green:active{
+  color: #cecece;
+  border-style: solid;
+  border-color: #cecece;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  font-family: monospace;
+  font-size: 5mm;
+  background-color: #343546;
+  box-shadow: 0mm 0mm 4mm #00e6b8;
+  cursor: pointer;
+}
+/*end*/
+/*JazzBlock buttonX_yellow*/
+.buttonX_yellow{
+  color: #e6e600;
+  border-style: solid;
+  border-color: #e6e600;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  font-family: monospace;
+  font-size: 5mm;
+  background-color: #343546;
+  box-shadow: 0mm 0mm 0mm #e6e600;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
+.buttonX_yellow:hover{
+  color: yellow;
+  border-style: solid;
+  border-color: yellow;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  font-family: monospace;
+  font-size: 5mm;
+  background-color: #343546;
+  box-shadow: 0mm 0mm 4mm yellow;
+  cursor: pointer;
+}
+.buttonX_yellow:active{
+  color: #e6e600;
+  border-style: solid;
+  border-color: #e6e600;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  font-family: monospace;
+  font-size: 5mm;
+  background-color: #343546;
+  box-shadow: 0mm 0mm 4mm #e6e600;
+  cursor: pointer;
+}
+/*end*/
+
+/*JazzBlock buttonX_orange*/
+.buttonX_orange{
+  color: #FB542B;
+  border-style: solid;
+  border-color: #FB542B;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  font-family: monospace;
+  font-size: 5mm;
+  background-color: #343546;
+  box-shadow: 0mm 0mm 0mm #FB542B;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
+.buttonX_orange:hover{
+  color: #ff6600;
+  border-style: solid;
+  border-color: #ff6600;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  font-family: monospace;
+  font-size: 5mm;
+  background-color: #343546;
+  box-shadow: 0mm 0mm 4mm #ff6600;
+  cursor: pointer;
+}
+.buttonX_orange:active{
+  color: #cecece;
+  border-style: solid;
+  border-color: #cecece;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  font-family: monospace;
+  font-size: 5mm;
+  background-color: #343546;
+  box-shadow: 0mm 0mm 4mm #00e6b8;
+  cursor: pointer;
+}
+/*end*/
+/*JazzBlock ButtonX_red*/
+.buttonX_red{
+  color: #cc0000;
+  border-style: solid;
+  border-color: #cc0000;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  font-family: monospace;
+  font-size: 5mm;
+  background-color: #cecece;
+  box-shadow: 0mm 0mm 2mm #cc0000;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
+.buttonX_red:hover{
+  color: red;
+  border-style: solid;
+  border-color: red;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  font-family: monospace;
+  font-size: 5mm;
+  background-color: #cecece;
+  box-shadow: 0mm 0mm 4mm red;
+  cursor: pointer;
+}
+.buttonX_red:active{
+  color: black;
+  border-style: solid;
+  border-color: #ff3333;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  font-family: monospace;
+  font-size: 5mm;
+  background-color: #cecece;
+  box-shadow: 0mm 0mm 4mm #ff3333;
+  cursor: pointer;
+}
+/*end*/
+/*JazzBlock buttonX_blue*/
+.buttonX_blue{
+  color: #003399;
+  border-style: solid;
+  border-color: #003399;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  font-family: monospace;
+  font-size: 5mm;
+  background-color: #343546;
+  box-shadow: 0mm 0mm 0mm #003399;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
+.buttonX_blue:hover{
+  color: #3377ff;
+  border-style: solid;
+  border-color: #3377ff;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  font-family: monospace;
+  font-size: 5mm;
+  background-color: #343546;
+  box-shadow: 0mm 0mm 4mm #3377ff;
+  cursor: pointer;
+}
+.buttonX_blue:active{
+  color: #cecece;
+  border-style: solid;
+  border-color: #cecece;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  font-family: monospace;
+  font-size: 5mm;
+  background-color: #343546;
+  box-shadow: 0mm 0mm 4mm #00e6b8;
+  cursor: pointer;
+}
+/*end*/
+/*JazzBlock buttonX_pink*/
+.buttonX_pink{
+  color: #cc00cc;
+  border-style: solid;
+  border-color: #cc00cc;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  font-family: monospace;
+  font-size: 5mm;
+  background-color: #343546;
+  box-shadow: 0mm 0mm 0mm #cc00cc;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
+.buttonX_pink:hover{
+  color: #ff00ff;
+  border-style: solid;
+  border-color: #ff00ff;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  font-family: monospace;
+  font-size: 5mm;
+  background-color: #343546;
+  box-shadow: 0mm 0mm 4mm #ff00ff;
+  cursor: pointer;
+}
+.buttonX_pink:active{
+  color: #b300b3;
+  border-style: solid;
+  border-color: #b300b3;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  font-family: monospace;
+  font-size: 5mm;
+  background-color: #343546;
+  box-shadow: 0mm 0mm 4mm #b300b3;
+  cursor: pointer;
+}
+/*end*/
+
+
+
+
+
+/*JazzBlock buttonY*/
+.buttonY{
+  font-size: 5mm;
+  font-family: monospace;
+  color: #f0f0f0;
+  background-color: #343546;
+  border-radius: 2mm;
+  border-style: double;
+  border-color: #cecece;
+  border-width: 1mm;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
+.buttonY:hover{
+  font-size: 5mm;
+  font-family: monospace;
+  color: #cecece;
+  background-color: #343546;
+  border-radius: 2mm;
+  border-style: double;
+  border-color: #808080;
+  border-width: 1mm;
+  box-shadow: 0mm 0mm 5mm #cecece;
+  cursor: pointer;
+}
+.buttonY:active{
+  font-size: 5mm;
+  font-family: monospace;
+  color: #b3b3b3;
+  background-color: #343546;
+  border-radius: 2mm;
+  border-style: double;
+  border-color: #b3b3b3;
+  border-width: 1mm;
+  box-shadow: 0mm 0mm 5mm #b3b3b3;
+}
+/*end*/
+
+/*JazzBlock buttonY_yellow*/
+.buttonY_yellow{
+  font-size: 5mm;
+  font-family: monospace;
+  color: #e6e600;
+  background-color: #343546;
+  border-radius: 2mm;
+  border-style: double;
+  border-color: #e6e600;
+  border-width: 1mm;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
+.buttonY_yellow:hover{
+  font-size: 5mm;
+  font-family: monospace;
+  color: yellow;
+  background-color: #343546;
+  border-radius: 2mm;
+  border-style: double;
+  border-color: yellow;
+  border-width: 1mm;
+  box-shadow: 0mm 0mm 4mm #e6e600;
+  cursor: pointer;
+}
+.buttonY_yellow:active{
+  font-size: 5mm;
+  font-family: monospace;
+  color: #e6e600;
+  background-color: #343546;
+  border-radius: 2mm;
+  border-style: double;
+  border-color: #e6e600;
+  border-width: 1mm;
+  box-shadow: 0mm 0mm 5mm yellow;
+}
+/*end*/
+/*JazzBlock buttonY_pink*/
+.buttonY_pink{
+  font-size: 5mm;
+  font-family: monospace;
+  color: #cc00cc;
+  background-color: #343546;
+  border-radius: 2mm;
+  border-style: double;
+  border-color: #cc00cc;
+  border-width: 1mm;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
+.buttonY_pink:hover{
+  font-size: 5mm;
+  font-family: monospace;
+  color: #b300b3;
+  background-color: #343546;
+  border-radius: 2mm;
+  border-style: double;
+  border-color: #b300b3;
+  border-width: 1mm;
+  box-shadow: 0mm 0mm 5mm #b300b3;
+  cursor: pointer;
+}
+.buttonY_pink:active{
+  font-size: 5mm;
+  font-family: monospace;
+  color: #ff00ff;
+  background-color: #343546;
+  border-radius: 2mm;
+  border-style: double;
+  border-color: #ff00ff;
+  border-width: 1mm;
+  box-shadow: 0mm 0mm 5mm #ff00ff;
+}
+/*end*/
+/*JazzBlock buttonY_red*/
+.buttonY_red{
+  font-size: 5mm;
+  font-family: monospace;
+  color: red;
+  background-color: #343546;
+  border-radius: 2mm;
+  border-style: double;
+  border-color: #cc0000;
+  border-width: 1mm;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
+.buttonY_red:hover{
+  font-size: 5mm;
+  font-family: monospace;
+  color: #cc0000;
+  background-color: #343546;
+  border-radius: 2mm;
+  border-style: double;
+  border-color: #cc0000;
+  border-width: 1mm;
+  box-shadow: 0mm 0mm 5mm #cc0000;
+  cursor: pointer;
+}
+.buttonY_red:active{
+  font-size: 5mm;
+  font-family: monospace;
+  color: #cecece;
+  background-color: #343546;
+  border-radius: 2mm;
+  border-style: double;
+  border-color: #b3b3b3;
+  border-width: 1mm;
+  box-shadow: 0mm 0mm 5mm #cc0000;
+}
+/*end*/
+/*JazzBlock buttonY_orange*/
+.buttonY_orange{
+  font-size: 5mm;
+  font-family: monospace;
+  color: #f0f0f0;
+  background-color: #343546;
+  border-radius: 2mm;
+  border-style: double;
+  border-color: #FB542B;
+  border-width: 1mm;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
+.buttonY_orange:hover{
+  font-size: 5mm;
+  font-family: monospace;
+  color: #cecece;
+  background-color: #343546;
+  border-radius: 2mm;
+  border-style: double;
+  border-color: #FB542B;
+  border-width: 1mm;
+  box-shadow: 0mm 0mm 5mm #FB542B;
+  cursor: pointer;
+}
+.buttonY_orange:active{
+  font-size: 5mm;
+  font-family: monospace;
+  color: #cecece;
+  background-color: #343546;
+  border-radius: 2mm;
+  border-style: double;
+  border-color: blue;
+  border-width: 1mm;
+  box-shadow: 0mm 0mm 5mm blue;
+}
+/*end*/
+/*JazzBlock ButtonY_teal*/
+.buttonY_teal{
+  font-size: 5mm;
+  font-family: monospace;
+  color: #88c6be;
+  background-color: #343546;
+  border-radius: 2mm;
+  border-style: double;
+  border-color: #88c6be;
+  border-width: 1mm;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+
+
+}
+.buttonY_teal:hover{
+  font-size: 5mm;
+  font-family: monospace;
+  color: #00e6b8;
+  background-color: #343546;
+  border-radius: 2mm;
+  border-style: double;
+  border-color: #00e6b8;
+  border-width: 1mm;
+  box-shadow: 0mm 0mm 5mm #00e6b8;
+  cursor: pointer;
+}
+.buttonY_teal:active{
+  font-size: 5mm;
+  font-family: monospace;
+  color: #cecece;
+  background-color: #343546;
+  border-radius: 2mm;
+  border-style: double;
+  border-color: #cecece;
+  border-width: 1mm;
+  cursor: pointer;
+}
+/*end*/
+
+/*JazzBlock buttonY_green*/
+.buttonY_green{
+  font-size: 5mm;
+  font-family: monospace;
+  color: #f0f0f0;
+  background-color: #343546;
+  border-radius: 2mm;
+  border-style: double;
+  border-color: #17bf63;
+  border-width: 1mm;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
+.buttonY_green:hover{
+  font-size: 5mm;
+  font-family: monospace;
+  color: #cecece;
+  background-color: #343546;
+  border-radius: 2mm;
+  border-style: double;
+  border-color: #99ff99;
+  border-width: 1mm;
+  box-shadow: 0mm 0mm 5mm #99ff99;
+  cursor: pointer;
+}
+.buttonY_green:active{
+  font-size: 5mm;
+  font-family: monospace;
+  color: #cecece;
+  background-color: #343546;
+  border-radius: 2mm;
+  border-style: double;
+  border-color: #FB542B;
+  border-width: 1mm;
+  box-shadow: 0mm 0mm 5mm #FB542B;
+}
+/*end*/
+
+/*JazzBlock buttonY_blue*/
+.buttonY_blue{
+  font-size: 5mm;
+  font-family: monospace;
+  color: #f0f0f0;
+  background-color: #343546;
+  border-radius: 2mm;
+  border-style: double;
+  border-color: blue;
+  border-width: 1mm;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
+.buttonY_blue:hover{
+  font-size: 5mm;
+  font-family: monospace;
+  color: #cecece;
+  background-color: #343546;
+  border-radius: 2mm;
+  border-style: double;
+  border-color: #6666ff;
+  border-width: 1mm;
+  box-shadow: 0mm 0mm 5mm #6666ff;
+  cursor: pointer;
+}
+.buttonY_blue:active{
+  font-size: 5mm;
+  font-family: monospace;
+  color: #cecece;
+  background-color: #343546;
+  border-radius: 2mm;
+  border-style: double;
+  border-color: #000066;
+  border-width: 1mm;
+  box-shadow: 0mm 0mm 5mm #000066;
+}
+/*end*/
+
+
+
+/*JazzBlock buttonZ*/
+.buttonZ{
+  font-size: 5mm;
+  font-family: monospace;
+  color: #343546;
+  background-color: #f0f0f0;
+  border-radius: 100mm;
+  border-style: groove;
+  border-color: #FB542B;
+  border-width: 1mm;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
+.buttonZ:hover{
+  font-size: 5mm;
+  font-family: monospace;
+  color: #343546;
+  background-color: #f0f0f0;
+  border-radius: 100mm;
+  border-style: groove;
+  border-color: #88c6be;
+  border-width: 1mm;
+  box-shadow: 0mm 0mm 6mm #88c6be;
+  cursor: pointer;
+}
+/*end*/
+/*JazzBlock buttonZ_yellow*/
+.buttonZ_yellow{
+  font-size: 5mm;
+  font-family: monospace;
+  color: #e6e600;
+  background-color: #20232a;
+  border-radius: 100mm;
+  border-style: groove;
+  border-color: #e6e600;
+  border-width: 1mm;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
+.buttonZ_yellow:hover{
+  font-size: 5mm;
+  font-family: monospace;
+  color: yellow;
+  background-color: #20232a;
+  border-radius: 100mm;
+  border-style: groove;
+  border-color: yellow;
+  border-width: 1mm;
+  box-shadow: 0mm 0mm 6mm #e6e600;
+  cursor: pointer;
+}
+/*end*/
+/*JazzBlock buttonZ_pink*/
+.buttonZ_pink{
+  font-size: 5mm;
+  font-family: monospace;
+  color: #cc00cc;
+  background-color: #20232a;
+  border-radius: 100mm;
+  border-style: groove;
+  border-color: #cc00cc;
+  border-width: 1mm;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
+.buttonZ_pink:hover{
+  font-size: 5mm;
+  font-family: monospace;
+  color: #ff00ff;
+  background-color: #20232a;
+  border-radius: 100mm;
+  border-style: groove;
+  border-color: #ff00ff;
+  border-width: 1mm;
+  box-shadow: 0mm 0mm 6mm #ff00ff;
+  cursor: pointer;
+}
+/*end*/
+/*JazzBlock buttonZ_red*/
+.buttonZ_red{
+  font-size: 5mm;
+  font-family: monospace;
+  color: red;
+  background-color: #f0f0f0;
+  border-radius: 100mm;
+  border-style: groove;
+  border-color: #cc0000;
+  border-width: 1mm;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
+.buttonZ_red:hover{
+  font-size: 5mm;
+  font-family: monospace;
+  color: #cc0000;
+  background-color: #f0f0f0;
+  border-radius: 100mm;
+  border-style: groove;
+  border-color: #cc0000;
+  border-width: 1mm;
+  box-shadow: 0mm 0mm 6mm #cc0000;
+  cursor: pointer;
+}
+/*end*/
+/*JazzBlock buttonZ_teal*/
+.buttonZ_teal{
+  font-size: 5mm;
+  font-family: monospace;
+  color: #88c6be;
+  background-color: #20232a;
+  border-radius: 100mm;
+  border-style: groove;
+  border-color: #88c6be;
+  border-width: 1mm;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
+.buttonZ_teal:hover{
+  font-size: 5mm;
+  font-family: monospace;
+  color: #cecece;
+  background-color: #20232a;
+  border-radius: 100mm;
+  border-style: groove;
+  border-color: #cecece;
+  border-width: 1mm;
+  box-shadow: 0mm 0mm 6mm #88c6be;
+  cursor: pointer;
+}
+/*end*/
+
+/*JazzBlock buttonZ_orange*/
+.buttonZ_orange{
+  font-size: 5mm;
+  font-family: monospace;
+  color: #cecece;
+  background-color: #20232a;
+  border-radius: 100mm;
+  border-style: groove;
+  border-color: #FB542B;
+  border-width: 1mm;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
+.buttonZ_orange:hover{
+  font-size: 5mm;
+  font-family: monospace;
+  color: #cecece;
+  background-color: #20232a;
+  border-radius: 100mm;
+  border-style: groove;
+  border-color: #FB542B;
+  border-width: 1mm;
+  box-shadow: 0mm 0mm 6mm #FB542B;
+  cursor: pointer;
+}
+/*end*/
+
+/*JazzBlock buttonZ_green*/
+.buttonZ_green{
+  font-size: 5mm;
+  font-family: monospace;
+  color: #cecece;
+  background-color: #20232a;
+  border-radius: 100mm;
+  border-style: groove;
+  border-color: #33cc33;
+  border-width: 1mm;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
+.buttonZ_green:hover{
+  font-size: 5mm;
+  font-family: monospace;
+  color: #cecece;
+  background-color: #20232a;
+  border-radius: 100mm;
+  border-style: groove;
+  border-color: #00ff55;
+  border-width: 1mm;
+  box-shadow: 0mm 0mm 6mm #33cc33;
+  cursor: pointer;
+}
+/*end*/
+
+/*JazzBlock buttonZ_blue*/
+.buttonZ_blue{
+  font-size: 5mm;
+  font-family: monospace;
+  color: #cecece;
+  background-color: #20232a;
+  border-radius: 100mm;
+  border-style: groove;
+  border-color: #0000ff;
+  border-width: 1mm;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
+.buttonZ_blue:hover{
+  font-size: 5mm;
+  font-family: monospace;
+  color: #cecece;
+  background-color: #20232a;
+  border-radius: 100mm;
+  border-style: groove;
+  border-color: #1a66ff;
+  border-width: 1mm;
+  box-shadow: 0mm 0mm 6mm #0000ff;
+  cursor: pointer;
+}
+/*end*/
+
+
+/*JazzBlock buttonAA*/
+.buttonAA{
+  font-size: 5mm;
+  font-family: 'Ubuntu', sans-serif;
+  color: #20232a;
+  background-color: #f0f0f0;
+  border-radius: 100mm;
+  border-style: groove;
+  border-color: #20232a;
+  border-width: 1mm;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+  width: 50mm;
+}
+.buttonAA:hover{
+  font-size: 5mm;
+  font-family: 'Ubuntu', sans-serif;
+  color: #20232a;
+  background-color: #f0f0f0;
+  border-radius: 100mm;
+  border-style: groove;
+  border-color: #353b45;
+  border-width: 1mm;
+  cursor: pointer;
+  width: 90mm;
+}
+.buttonAA:active{
+  font-size: 5mm;
+  font-family: 'Ubuntu', sans-serif;
+  color: #20232a;
+  background-color: #cecece;
+  border-radius: 100mm;
+  border-style: groove;
+  border-color: #353b45;
+  border-width: 1mm;
+  cursor: pointer;
+  width: 90mm;
+}
+/*end*/
+/*JazzBlock buttonBB*/
+.buttonBB{
+  font-size: 5mm;
+  font-family: 'La Belle Aurore', cursive;
+  color: #20232a;
+  border-radius: 100mm;
+  border-bottom: solid;
+  border-left: none;
+  border-right: none;
+  border-color: #20232a;
+  border-width: 0.5mm;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
+.buttonBB:hover{
+  font-size: 5mm;
+  font-family: 'La Belle Aurore', cursive;
+  color: #c5a5c5;
+  border-radius: 100mm;
+  border-bottom: solid;
+  border-left: none;
+  border-right: none;
+  border-color: #c5a5c5;
+  border-width: 0.5mm;
+  cursor: pointer;
+}
+.buttonBB:active{
+  font-size: 5mm;
+  font-family: 'La Belle Aurore', cursive;
+  color: #fc929e;
+  border-radius: 100mm;
+  border-bottom: solid;
+  border-left: none;
+  border-right: none;
+  border-color: #fc929e;
+  border-width: 0.5mm;
+  cursor: pointer;
+}
+/*end*/
+
+/*JazzBlock buttonCC*/
+.buttonCC{
+  color: #cecece;
+  border-style: solid;
+  border-color: #cecece;
+  border-width: 0.5mm;
+  border-radius: 0mm;
+  font-family: monospace;
+  font-size: 5mm;
+  background-color: #A0A1B2;
+  box-shadow: 0mm 0mm 0mm #FB542B;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
+.buttonCC:hover{
+  color: #cecece;
+  border-style: solid;
+  border-color: #FB542B;
+  border-width: 0.5mm;
+  border-radius: 0mm;
+  font-family: monospace;
+  font-size: 5mm;
+  background-color: #FB542B;
+  box-shadow: 0mm 0mm 5mm #FB542B;
+  cursor: pointer;
+}
+.buttonCC:active{
+  color: #343546;
+  border-style: solid;
+  border-color: #FB542B;
+  border-width: 0.5mm;
+  border-radius: 0mm;
+  font-family: monospace;
+  font-size: 5mm;
+  background-color: #A0A1B2;
+  box-shadow: 0mm 0mm 5mm #FB542B;
+}
+/*end*/
+
+.buttonNeon{
+  font-family: 'Ubuntu', sans-serif;
+  padding-top:1mm;
+  padding-bottom:1mm;
+  padding-left: 3mm;
+  padding-right: 3mm;
+  margin-right: 0mm;
+  margin-left: 0mm;
+  border-left: 0.5mm solid rgba(0, 0, 0, 0.0);
+  border-right: 0.5mm solid rgba(0, 0, 0, 0.0);
+  border-bottom: 0.5mm solid #17bf63;
+  border-top: 0.5mm solid #17bf63;
+  border-radius: 5mm;
+  color: #17bf63;
+  background: rgba(0, 0, 0, 0.0);
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+  font-size: 10mm;
+  margin: 4mm;
+}
+.buttonNeon:hover{
+
+  font-family: 'Ubuntu', sans-serif;
+  padding-top:5mm;
+  padding-bottom:5mm;
+  border-radius: 5mm;
+  padding-left: 3mm;
+  padding-right: 3mm;
+  margin-right: 0mm;
+  margin-left: 0mm;
+  margin-right: 0mm;
+  border-left: 0.5mm solid rgba(0, 0, 0, 0.0);
+  border-right: 0.5mm solid rgba(0, 0, 0, 0.0);
+  border-bottom: 0.5mm solid #99ff99;
+  border-top: 0.5mm solid #99ff99;
+  color: #99ff99;
+  background: rgba(0, 0, 0, 0.0);
+  margin-bottom: 0mm;
+  margin-top: 0mm;
+  cursor: pointer;
+}
+.buttonNeon2{
+  font-family: 'Ubuntu', sans-serif;
+  padding-top:1mm;
+  padding-bottom:1mm;
+  padding-left: 3mm;
+  padding-right: 3mm;
+  margin-right: 0mm;
+  margin-left: 0mm;
+  border-left: 0.5mm solid rgba(0, 0, 0, 0.0);
+  border-right: 0.5mm solid rgba(0, 0, 0, 0.0);
+  border-bottom: 0.5mm solid #17bf63;
+  border-top: 0.5mm solid #17bf63;
+  border-radius: 5mm;
+  color: #17bf63;
+  background: rgba(0, 0, 0, 0.0);
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+  font-size: 10mm;
+  margin: 4mm;
+}
+.buttonNeon2:hover{
+  font-family: 'Ubuntu', sans-serif;
+  padding-top:1mm;
+  padding-bottom:1mm;
+  padding-left: 3mm;
+  padding-right: 3mm;
+  margin-right: 0mm;
+  margin-left: 0mm;
+  border-left: 0.5mm solid rgba(0, 0, 0, 0.0);
+  border-right: 0.5mm solid rgba(0, 0, 0, 0.0);
+  border-bottom: 0.5mm solid #99ff99;
+  border-top: 0.5mm solid #99ff99;
+  border-radius: 5mm;
+  color: #99ff99;
+  background: rgba(0, 0, 0, 0.0);
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+  font-size: 10mm;
+  margin: 4mm;
+  cursor: pointer;
+}
+.buttonNeonAct{
+  font-family: 'Ubuntu', sans-serif;
+  padding-top:1mm;
+  padding-bottom:1mm;
+  padding-left: 3mm;
+  padding-right: 3mm;
+  margin-right: 0mm;
+  margin-left: 0mm;
+  border-left: 0.5mm solid rgba(0, 0, 0, 0.0);
+  border-right: 0.5mm solid rgba(0, 0, 0, 0.0);
+  border-bottom: 0.5mm solid #cecece;
+  border-top: 0.5mm solid #cecece;
+  border-radius: 5mm;
+  color: #cecece;
+  background: rgba(0, 0, 0, 0.0);
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+  font-size: 10mm;
+  margin: 4mm;
+  cursor:not-allowed;
+}
+
+
+.buttonQ1{
+  margin-left:15mm;
+  margin-right:15mm;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-color: white;
+  background-color: #1a1a1a;
+  color: white;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  box-shadow: 0mm 0mm 1mm white;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+  width: 40mm;
+}
+.buttonQ1:hover{
+  margin-left:5mm;
+  margin-right:5mm;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-color: white;
+  background-color: #1a1a1a;
+  color: white;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  width: 60mm;
+  box-shadow: 0mm 0mm 3mm white;
+  cursor: pointer;
+}
+.buttonQ1_red{
+  margin-left:15mm;
+  margin-right:15mm;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-color: red;
+  background-color: #1a1a1a;
+  color: red;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  box-shadow: 0mm 0mm 1mm red;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+  width: 40mm;
+}
+.buttonQ1_red:hover{
+  margin-left:5mm;
+  margin-right:5mm;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-color: red;
+  background-color: #1a1a1a;
+  color: red;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  width: 60mm;
+  box-shadow: 0mm 0mm 3mm red;
+  cursor: pointer;
+}
+.buttonQ1_yellow{
+  margin-left:15mm;
+  margin-right:15mm;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-color: yellow;
+  background-color: #1a1a1a;
+  color: yellow;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  box-shadow: 0mm 0mm 1mm yellow;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+  width: 40mm;
+}
+.buttonQ1_yellow:hover{
+  margin-left:5mm;
+  margin-right:5mm;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-color: yellow;
+  background-color: #1a1a1a;
+  color: yellow;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  width: 60mm;
+  box-shadow: 0mm 0mm 3mm yellow;
+  cursor: pointer;
+}
+.buttonQ1_pink{
+  margin-left:15mm;
+  margin-right:15mm;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-color: pink;
+  background-color: #1a1a1a;
+  color: pink;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  box-shadow: 0mm 0mm 1mm pink;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+  width: 40mm;
+}
+.buttonQ1_pink:hover{
+  margin-left:5mm;
+  margin-right:5mm;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-color: pink;
+  background-color: #1a1a1a;
+  color: pink;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  width: 60mm;
+  box-shadow: 0mm 0mm 3mm pink;
+  cursor: pointer;
+}
+
+
+.buttonQ1_noir{
+  margin-left:15mm;
+  margin-right:15mm;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-color: #d9d9d9;
+  background-color: #1a1a00;
+  color: #d9d9d9;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  box-shadow: 0mm 0mm 1mm #d9d9d9;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+  width: 40mm;
+}
+.buttonQ1_noir:hover{
+  margin-left:5mm;
+  margin-right:5mm;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-color: #d9d9d9;
+  background-color: #1a1a00;
+  color: #d9d9d9;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  width: 60mm;
+  box-shadow: 0mm 0mm 3mm #d9d9d9;
+  cursor: pointer;
+}
+.buttonQ1_green{
+  margin-left:15mm;
+  margin-right:15mm;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-color: #80DE51;
+  background-color: #1a1a00;
+  color: #80DE51;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  box-shadow: 0mm 0mm 1mm #80DE51;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+  width: 40mm;
+}
+.buttonQ1_green:hover{
+  margin-left:5mm;
+  margin-right:5mm;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-color: #80DE51;
+  background-color: #1a1a00;
+  color: #80DE51;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  width: 60mm;
+  box-shadow: 0mm 0mm 3mm #80DE51;
+  cursor: pointer;
+}
+
+.buttonQ1_orange{
+  margin-left:15mm;
+  margin-right:15mm;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-color: #FB542B;
+  background-color: #1a1a00;
+  color: #FB542B;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  box-shadow: 0mm 0mm 1mm #FB542B;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+  width: 40mm;
+}
+.buttonQ1_orange:hover{
+  margin-left:5mm;
+  margin-right:5mm;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-color: #FB542B;
+  background-color: #1a1a00;
+  color: #FB542B;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  width: 60mm;
+  box-shadow: 0mm 0mm 3mm #FB542B;
+  cursor: pointer;
+}
+.buttonQ1_teal{
+  margin-left:15mm;
+  margin-right:15mm;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-color: #88c6be;
+  background-color: #1a1a00;
+  color: #88c6be;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  box-shadow: 0mm 0mm 1mm #88c6be;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+  width: 40mm;
+}
+.buttonQ1_teal:hover{
+  margin-left:5mm;
+  margin-right:5mm;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-color: #88c6be;
+  background-color: #1a1a00;
+  color: #88c6be;
+  border-width: 0.5mm;
+  border-radius: 5mm;
+  width: 60mm;
+  box-shadow: 0mm 0mm 3mm #88c6be;
+  cursor: pointer;
+}
+
+
+
+
+
+
+.buttonQ2_bluepaint{
+  margin: 1.2mm;
+  border: none;
+  color: #1a1a1a;
+  background-image: url(https://dev.jacobborgprogramming.net/JazzBlocksLibrary/libraries/img/bluepaints.jpg);
+  background-color: #1a1a1a;
+  font-family: 'Literata', serif;
+  background-position: top;
+  font-size: 5mm;
+  background-size: cover;
+  border-radius: 1mm;
+  -webkit-transition-duration: 1.5s; /* Safari */
+  transition-duration: 1.4s;
+  width: 60%;
+  height: 30mm;
+}
+.buttonQ2_bluepaint:hover{
+  margin: 1.2mm;
+  border: none;
+  color: #1a1a1a;
+  background-image: url(https://dev.jacobborgprogramming.net/JazzBlocksLibrary/libraries/img/bluepaints.jpg);
+  background-position: center;
+  background-color: #404040;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-radius: 1mm;
+  cursor: pointer;
+  width: 60%;
+  height: 30mm;
+}
+.buttonQ2_blacksands{
+  margin: 1.2mm;
+  border: none;
+  color: white;
+  background-image: url(https://dev.jacobborgprogramming.net/JazzBlocksLibrary/libraries/img/sands.jpg);
+  background-color: #1a1a1a;
+  font-family: 'Literata', serif;
+  background-size: cover;
+  background-position: top;
+  font-size: 5mm;
+  border-radius: 1mm;
+  -webkit-transition-duration: 1.5s; /* Safari */
+  transition-duration: 1.4s;
+  width: 60%;
+  height: 30mm;
+}
+.buttonQ2_blacksands:hover{
+  margin: 1.2mm;
+  border: none;
+  color: white;
+  background-image: url(https://dev.jacobborgprogramming.net/JazzBlocksLibrary/libraries/img/sands.jpg);
+  background-position: center;
+  background-color: #404040;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-radius: 1mm;
+  cursor: pointer;
+  width: 60%;
+  height: 30mm;
+}
+.buttonQ2_streams{
+  margin: 1.2mm;
+  border: none;
+  color: white;
+  background-image: url(https://dev.jacobborgprogramming.net/JazzBlocksLibrary/libraries/img/streams.jpg);
+  background-color: #1a1a1a;
+  background-size: cover;
+  font-family: 'Literata', serif;
+  background-position: top;
+  font-size: 5mm;
+  border-radius: 1mm;
+  -webkit-transition-duration: 1.5s; /* Safari */
+  transition-duration: 1.4s;
+  width: 60%;
+  height: 30mm;
+}
+.buttonQ2_streams:hover{
+  margin: 1.2mm;
+  border: none;
+  color: white;
+  background-image: url(https://dev.jacobborgprogramming.net/JazzBlocksLibrary/libraries/img/streams.jpg);
+  background-position: center;
+  background-size: cover;
+  background-color: #404040;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-radius: 1mm;
+  cursor: pointer;
+  width: 60%;
+  height: 30mm;
+}
+
+
+.buttonQ2_city{
+  margin: 1.2mm;
+  border: none;
+  color: black;
+  background-image: url(https://dev.jacobborgprogramming.net/JazzBlocksLibrary/libraries/img/city.jpg);
+  background-color: #1a1a1a;
+  background-size: cover;
+  font-family: 'Literata', serif;
+  background-position: top;
+  font-size: 5mm;
+  border-radius: 1mm;
+  -webkit-transition-duration: 1.5s; /* Safari */
+  transition-duration: 1.4s;
+  width: 60%;
+  height: 30mm;
+}
+.buttonQ2_city:hover{
+  margin: 1.2mm;
+  border: none;
+  color: black;
+  background-image: url(https://dev.jacobborgprogramming.net/JazzBlocksLibrary/libraries/img/city.jpg);
+  background-position: center;
+  background-size: cover;
+  background-color: #404040;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-radius: 1mm;
+  cursor: pointer;
+  width: 60%;
+  height: 30mm;
+}
+
+
+.buttonQ2_code{
+  margin: 1.2mm;
+  border: none;
+  color: white;
+  background-image: url(https://dev.jacobborgprogramming.net/JazzBlocksLibrary/libraries/img/code.jpg);
+  background-color: #1a1a1a;
+  background-size: cover;
+  font-family: 'Literata', serif;
+  background-position: top;
+  font-size: 5mm;
+  border-radius: 1mm;
+  -webkit-transition-duration: 1.5s; /* Safari */
+  transition-duration: 1.4s;
+  width: 60%;
+  height: 30mm;
+}
+.buttonQ2_code:hover{
+  margin: 1.2mm;
+  border: none;
+  color: white;
+  background-image: url(https://dev.jacobborgprogramming.net/JazzBlocksLibrary/libraries/img/code.jpg);
+  background-position: center;
+  background-size: cover;
+  background-color: #404040;
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  border-radius: 1mm;
+  cursor: pointer;
+  width: 60%;
+  height: 30mm;
+}

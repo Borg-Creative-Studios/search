@@ -1,0 +1,413 @@
+
+@import url('https://fonts.googleapis.com/css?family=Chilanka|La+Belle+Aurore|Literata|Oswald|Ubuntu&display=swap');
+/*JazzBlock po and all compatable mods*/
+.ph{
+  font-family: 'Chilanka', cursive;
+  font-size: 4mm;
+}
+.ph_s{
+  font-family: 'Chilanka', cursive;
+  font-size: 3mm;
+}
+.ph_m{
+  font-family: 'Chilanka', cursive;
+  font-size: 5mm;
+}
+.ph_l{
+  font-family: 'Chilanka', cursive;
+  font-size: 8mm;
+}
+.ph_u{
+  font-family: 'Chilanka', cursive;
+  font-size: 4mm;
+  text-decoration: underline;
+
+}
+.ph_s_u{
+  font-family: 'Chilanka', cursive;
+  font-size: 3mm;
+  text-decoration: underline;
+}
+.ph_m_u{
+  font-family: 'Chilanka', cursive;
+  font-size: 5mm;
+  text-decoration: underline;
+}
+.ph_l_u{
+  font-family: 'Chilanka', cursive;
+  font-size: 8mm;
+  text-decoration: underline;
+}
+.ph_o{
+  font-family: 'Chilanka', cursive;
+  font-size: 4mm;
+  text-decoration: overline;
+
+}
+.ph_s_o{
+  font-family: 'Chilanka', cursive;
+  font-size: 3mm;
+  text-decoration: overline;
+}
+.ph_m_o{
+  font-family: 'Chilanka', cursive;
+  font-size: 5mm;
+  text-decoration: overline;
+}
+.ph_l_o{
+  font-family: 'Chilanka', cursive;
+  font-size: 8mm;
+  text-decoration: overline;
+}
+.ph_st{
+  font-family: 'Chilanka', cursive;
+  font-size: 4mm;
+  text-decoration: line-through;
+
+}
+.ph_s_st{
+  font-family: 'Chilanka', cursive;
+  font-size: 3mm;
+  text-decoration: line-through;
+}
+.ph_m_st{
+  font-family: 'Chilanka', cursive;
+  font-size: 5mm;
+  text-decoration: line-through;
+}
+.ph_l_st{
+  font-family: 'Chilanka', cursive;
+  font-size: 8mm;
+  text-decoration: line-through;
+}
+/*end*/
+/*JazzBlock po and all compatable mods*/
+.po{
+  font-family: 'Oswald', sans-serif;
+  font-size: 4mm;
+}
+.po_s{
+  font-family: 'Oswald', sans-serif;
+  font-size: 3mm;
+}
+.po_m{
+  font-family: 'Oswald', sans-serif;
+  font-size: 5mm;
+}
+.po_l{
+  font-family: 'Oswald', sans-serif;
+  font-size: 8mm;
+}
+.po_u{
+  font-family: 'Oswald', sans-serif;
+  font-size: 4mm;
+  text-decoration: underline;
+
+}
+.po_s_u{
+  font-family: 'Oswald', sans-serif;
+  font-size: 3mm;
+  text-decoration: underline;
+}
+.po_m_u{
+  font-family: 'Oswald', sans-serif;
+  font-size: 5mm;
+  text-decoration: underline;
+}
+.po_l_u{
+  font-family: 'Oswald', sans-serif;
+  font-size: 8mm;
+  text-decoration: underline;
+}
+.po_o{
+  font-family: 'Oswald', sans-serif;
+  font-size: 4mm;
+  text-decoration: overline;
+
+}
+.po_s_o{
+  font-family: 'Oswald', sans-serif;
+  font-size: 3mm;
+  text-decoration: overline;
+}
+.po_m_o{
+  font-family: 'Oswald', sans-serif;
+  font-size: 5mm;
+  text-decoration: overline;
+}
+.po_l_o{
+  font-family: 'Oswald', sans-serif;
+  font-size: 8mm;
+  text-decoration: overline;
+}
+.po_st{
+  font-family: 'Oswald', sans-serif;
+  font-size: 4mm;
+  text-decoration: line-through;
+
+}
+.po_s_st{
+  font-family: 'Oswald', sans-serif;
+  font-size: 3mm;
+  text-decoration: line-through;
+}
+.po_m_st{
+  font-family: 'Oswald', sans-serif;
+  font-size: 5mm;
+  text-decoration: line-through;
+}
+.po_l_st{
+  font-family: 'Oswald', sans-serif;
+  font-size: 8mm;
+  text-decoration: line-through;
+}
+/*end*/
+/*JazzBlock pc and all compatable mods*/
+.pc{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 4mm;
+}
+
+.pc_s{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 3mm;
+}
+.pc_m{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 5mm;
+}
+.pc_l{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 8mm;
+}
+.pc_u{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 4mm;
+  text-decoration: underline;
+
+}
+.pc_s_u{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 3mm;
+  text-decoration: underline;
+}
+.pc_m_u{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 5mm;
+  text-decoration: underline;
+}
+.pc_l_u{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 8mm;
+  text-decoration: underline;
+}
+.pc_o{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 4mm;
+  text-decoration: overline;
+
+}
+.pc_s_o{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 3mm;
+  text-decoration: overline;
+}
+.pc_m_o{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 5mm;
+  text-decoration: overline;
+}
+.pc_l_o{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 8mm;
+  text-decoration: overline;
+}
+.pc_st{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 4mm;
+  text-decoration: line-through;
+
+}
+.pc_s_st{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 3mm;
+  text-decoration: line-through;
+}
+.pc_m_st{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 5mm;
+  text-decoration: line-through;
+}
+.pc_l_st{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 8mm;
+  text-decoration: line-through;
+}
+
+
+
+/*end*/
+
+/*JazzBlock pf and all compatable mods*/
+.pf{
+  font-family: 'La Belle Aurore', cursive;
+  font-size: 4mm;
+}
+.pf_s{
+  font-family: 'La Belle Aurore', cursive;
+  font-size: 3mm;
+}
+.pf_m{
+  font-family: 'La Belle Aurore', cursive;
+  font-size: 5mm;
+}
+.pf_l{
+  font-family: 'La Belle Aurore', cursive;
+  font-size: 8mm;
+}
+.pf_u{
+  font-family: 'La Belle Aurore', cursive;
+  font-size: 4mm;
+  text-decoration: underline;
+
+}
+.pf_s_u{
+  font-family: 'La Belle Aurore', cursive;
+  font-size: 3mm;
+  text-decoration: underline;
+}
+.pf_m_u{
+  font-family: 'La Belle Aurore', cursive;
+  font-size: 5mm;
+  text-decoration: underline;
+}
+.pf_l_u{
+  font-family: 'La Belle Aurore', cursive;
+  font-size: 8mm;
+  text-decoration: underline;
+}
+.pf_o{
+  font-family: 'La Belle Aurore', cursive;
+  font-size: 4mm;
+  text-decoration: overline;
+
+}
+.pf_s_o{
+  font-family: 'La Belle Aurore', cursive;
+  font-size: 3mm;
+  text-decoration: overline;
+}
+.pf_m_o{
+  font-family: 'La Belle Aurore', cursive;
+  font-size: 5mm;
+  text-decoration: overline;
+}
+.pf_l_o{
+  font-family: 'La Belle Aurore', cursive;
+  font-size: 8mm;
+  text-decoration: overline;
+}
+.pf_st{
+  font-family: 'La Belle Aurore', cursive;
+  font-size: 4mm;
+  text-decoration: line-through;
+
+}
+.pf_s_st{
+  font-family: 'La Belle Aurore', cursive;
+  font-size: 3mm;
+  text-decoration: line-through;
+}
+.pf_m_st{
+  font-family: 'La Belle Aurore', cursive;
+  font-size: 5mm;
+  text-decoration: line-through;
+}
+.pf_l_st{
+  font-family: 'La Belle Aurore', cursive;
+  font-size: 8mm;
+  text-decoration: line-through;
+}
+/*end*/
+
+/*JazzBlock pn and all compatable mods*/
+.pn{
+  font-family: 'Literata', serif;
+  font-size: 4mm;
+}
+.pn_s{
+  font-family: 'Literata', serif;
+  font-size: 3mm;
+}
+.pn_m{
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+}
+.pn_l{
+  font-family: 'Literata', serif;
+  font-size: 8mm;
+}
+.pn_u{
+  font-family: 'Literata', serif;
+  font-size: 4mm;
+  text-decoration: underline;
+
+}
+.pn_s_u{
+  font-family: 'Literata', serif;
+  font-size: 3mm;
+  text-decoration: underline;
+}
+.pn_m_u{
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  text-decoration: underline;
+}
+.pn_l_u{
+  font-family: 'Literata', serif;
+  font-size: 8mm;
+  text-decoration: underline;
+}
+.pn_o{
+  font-family: 'Literata', serif;
+  font-size: 4mm;
+  text-decoration: overline;
+
+}
+.pn_s_o{
+  font-family: 'Literata', serif;
+  font-size: 3mm;
+  text-decoration: overline;
+}
+.pn_m_o{
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  text-decoration: overline;
+}
+.pn_l_o{
+  font-family: 'Literata', serif;
+  font-size: 8mm;
+  text-decoration: overline;
+}
+.pn_st{
+  font-family: 'Literata', serif;
+  font-size: 4mm;
+  text-decoration: line-through;
+
+}
+.pn_s_st{
+  font-family: 'Literata', serif;
+  font-size: 3mm;
+  text-decoration: line-through;
+}
+.pn_m_st{
+  font-family: 'Literata', serif;
+  font-size: 5mm;
+  text-decoration: line-through;
+}
+.pn_l_st{
+  font-family: 'Literata', serif;
+  font-size: 8mm;
+  text-decoration: line-through;
+}
+/*end*/

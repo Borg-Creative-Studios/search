@@ -1,0 +1,81 @@
+Learn to use this library
+//
+There are six primary button classes, X, Y, Z, AA, BB, and CC.
+X, Y, and Z buttons can use "mods". Mods are separated with "_".
+Button mods are red, pink, teal, blue, orange, and green. (buttonY cannot use orange for it is the default)
+
+- - -
+There are currently two specialty button classes: Q1 & Q2
+Q1 compatible mods are:
+- - -
+noir
+
+red
+
+pink
+
+teal
+
+blue
+
+orange
+
+green
+
+- - -
+Q2 compatible mods are:
+- - -
+
+bluepaint
+
+blacksands
+
+streams
+
+city
+
+code
+
+- - -
+There are currently five paragraph classes:
+- - -
+
+pc
+
+pf
+
+ph
+
+po
+
+pn
+
+Paragraph size mods are s, m, and l.
+
+Paragraph style mods are u, o, and s. Underline=u, overline=o, and strike-through=s
+
+When using multiple mods the order goes class_size_style.
+
+install JazzBlocks into your website by adding the library files to its source code folder and adding
+
+<!--JazzBlocks required code-->
+<link rel="preload" href="https://dev.jacobborgprogramming.net/JazzBlocksLibrary/libraries/JazzBlocks.css" as="style">
+<link rel="stylesheet" href="https://dev.jacobborgprogramming.net/JazzBlocksLibrary/libraries/JazzBlocks.css">
+<link rel="preload" href="https://dev.jacobborgprogramming.net/JazzBlocksLibrary/libraries/JazzBlocksFunctions.js" as="script">
+<link rel="preload" href="https://fonts.googleapis.com/css?family=Chilanka|La+Belle+Aurore|Literata|Oswald|Ubuntu&display=swap" as="style">
+<link href="https://fonts.googleapis.com/css?family=Chilanka|La+Belle+Aurore|Literata|Oswald|Ubuntu&display=swap" rel="stylesheet">
+<!--end-->
+
+<!--JazzBlocksQ Beta Resources-->
+<link href="https://dev.jacobborgprogramming.net/JazzBlocksLibrary/libraries/JazzBlocksQ.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Chilanka|La+Belle+Aurore|Literata|Oswald|Ubuntu&display=swap" rel="stylesheet">
+<!--end-->
+
+<!--JazzBlocks Divided required code-->
+<link rel="stylesheet" href="https://dev.jacobborgprogramming.net/JazzBlocksLibrary/libraries/textStyles.css">
+<link rel="stylesheet" href="https://dev.jacobborgprogramming.net/JazzBlocksLibrary/libraries/buttons.css">
+<link rel="stylesheet" href="https://dev.jacobborgprogramming.net/JazzBlocksLibrary/libraries/everythingelse.css">
+<link rel="preload" href="https://dev.jacobborgprogramming.net/libraries/JazzBlocksFunctions.js" as="script">
+<link rel="preload" href="https://fonts.googleapis.com/css?family=Chilanka|La+Belle+Aurore|Literata|Oswald|Ubuntu&display=swap" as="style">
+<link href="https://fonts.googleapis.com/css?family=Chilanka|La+Belle+Aurore|Literata|Oswald|Ubuntu&display=swap" rel="stylesheet">
+<!--end-->
