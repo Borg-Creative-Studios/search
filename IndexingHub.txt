@@ -1,9 +1,5 @@
-https://dissenter.com/
-https://about.gitlab.com/
-https://mailchimp.com/
-https://www.thunderbird.net/en-US/
-https://www.debian.org/
-https://www.intercom.com/
-https://signal.org/
-https://ubuntu-mate.org/
-https://iot.mozilla.org/
+https://nitter.net/
+https://sleek.page/
+https://ghost.org/
+https://www.spikenow.com/
+https://startupstash.com/
