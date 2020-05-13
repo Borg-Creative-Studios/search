@@ -1,4 +1,8 @@
-https://www.apollographql.com/
-https://everve.net/
-https://www.viasat.com/
-https://browser.viasat.com/
+https://www.startmail.com/en/
+https://searchcode.com/
+https://kubernetes.io/
+https://janusgraph.org/
+https://www.spinnaker.io/
+https://abseil.io/
+https://signal.org/
+https://wetransfer.com/
