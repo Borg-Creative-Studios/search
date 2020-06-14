@@ -6,7 +6,8 @@ background-size: cover;
 margin-right: 0px;
 margin-left: 0px;
 margin-top: 0px;
-  scroll-behavior: smooth;
+scroll-behavior: smooth;
+outline: none;
 
 }
 @import url('https://fonts.googleapis.com/css?family=Monoton|PT+Sans+Narrow|Share+Tech+Mono&display=swap');

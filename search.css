@@ -2,17 +2,14 @@
   position: -webkit-sticky; /* Safari */
 position: sticky;
 top: 0;
-  background-image: url('./search.png'); /* Add a search icon to input */
-  background-position: 10px 10px; /* Position the search icon */
-  background-repeat: no-repeat; /* Do not repeat the icon image */
-  background-size: 30px;
+
    /* Full-width */
   font-size: 25px; /* Increase font-size */
   padding: 12px 20px 12px 40px; /* Add some padding */
   border: 2px solid #ddd; /* Add a grey border */
   border-radius: 1mm;
   margin-bottom: 12px; /* Add some space below the input */
-box-shadow: 0mm 0mm 4mm black;
+box-shadow: 0mm 0mm 0mm black;
 }
 #myInput:focus{
   outline: none;
@@ -64,6 +61,7 @@ overflow-x:hidden;
   column-fill: auto;
   column-count: 1;
   column-gap: 5px;
+  
 }
 .search_bar{
   position: fixed;
