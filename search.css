@@ -6,7 +6,7 @@ top: 0;
    /* Full-width */
   font-size: 25px; /* Increase font-size */
   padding: 12px 20px 12px 40px; /* Add some padding */
-  border: 2px solid #ddd; /* Add a grey border */
+  border: none; /* Add a grey border */
   border-radius: 1mm;
   margin-bottom: 12px; /* Add some space below the input */
 box-shadow: 0mm 0mm 0mm black;
@@ -23,7 +23,17 @@ box-shadow: 0mm 0mm 0mm black;
 column-count: 1;
 overflow-x:hidden;
 }
+#myUL li {
 
+  border: 0px solid #ddd; /* Add a border to all links */
+  margin-top: -1px; /* Prevent double borders */
+  background-color: #f6f6f6; /* Grey background color */
+  padding: 0px;
+  text-decoration: none; /* Remove default text underline */
+  font-size: 18px; /* Increase the font-size */
+  color: black; /* Add a black text color */
+  display: block; /* Make it into a block element to fill the whole list */
+}
 
 #myUL li a {
 
@@ -61,7 +71,7 @@ overflow-x:hidden;
   column-fill: auto;
   column-count: 1;
   column-gap: 5px;
-  
+
 }
 .search_bar{
   position: fixed;
