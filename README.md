@@ -2,8 +2,9 @@
 An open-source, privacy based search engine.
 
 ---
-## BCS Search is a community project. 
-We allow users and website owners to submit websites for indexing.
+## Getting websites indexed is easy.
+Just fill out the form!
+https://airtable.com/shrXaOPQ4UHah6w9d
 ---
 ## BCS Search is family-freindly.
-Our search engine does NOT allow any adult content to be indexed. Users or website owners that submit adult content for indexing will be suspended from contributing for up to 1 year.
+Our search engine does NOT allow any adult content to be indexed. Web masters or website owners that submit adult content for indexing may be suspended or banned from contributing.
